@@ -1,0 +1,65 @@
+2022-06-21 19:19:06,920| conftest |test_currency_toggle | INFO | Start driver chrome
+2022-06-21 19:19:06,922| base_page |test_currency_toggle | INFO | Open URL: http://localhost/
+2022-06-21 19:19:10,629| currency |test_currency_toggle | INFO | Find element ('css selector', '.btn-link.dropdown-toggle strong')
+2022-06-21 19:19:10,638| base_page |test_currency_toggle | INFO | Element (.btn-link.dropdown-toggle strong) is present on the page
+2022-06-21 19:19:10,672| currency |test_currency_toggle | INFO | Find element ('css selector', '.btn-link.dropdown-toggle')
+2022-06-21 19:19:10,680| base_page |test_currency_toggle | INFO | Element (.btn-link.dropdown-toggle) is present on the page
+2022-06-21 19:19:10,736| currency |test_currency_toggle | INFO | Find element ('css selector', '[name="EUR"]')
+2022-06-21 19:19:10,745| base_page |test_currency_toggle | INFO | Element ([name="EUR"]) is present on the page
+2022-06-21 19:19:11,159| base_page |test_currency_toggle | INFO | Element (.btn-link.dropdown-toggle strong) is present on the page
+2022-06-21 19:19:11,174| currency |test_currency_toggle | INFO | Check currency change
+2022-06-21 19:19:11,176| conftest |test_currency_toggle | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 19:19:30,270| conftest |test_currency_toggle | INFO | Start driver chrome
+2022-06-21 19:19:30,273| base_page |test_currency_toggle | INFO | Open URL: http://localhost/
+2022-06-21 19:19:32,570| currency |test_currency_toggle | INFO | Find element ('css selector', '.b')
+2022-06-21 19:19:37,730| base_page |test_currency_toggle | ERROR | Element (.b) is not found
+2022-06-21 19:19:37,893| conftest |test_currency_toggle | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 19:20:44,147| conftest |test_currency_toggle | INFO | Start driver chrome
+2022-06-21 19:20:44,150| base_page |test_currency_toggle | INFO | Open URL: http://localhost/
+2022-06-21 19:20:46,210| currency |test_currency_toggle | INFO | Find element ('css selector', '.b')
+2022-06-21 19:20:51,312| base_page |test_currency_toggle | ERROR | Element (.b) is not found
+2022-06-21 19:20:51,314| currency |test_currency_toggle | ERROR | Currency is not change!
+2022-06-21 19:20:51,478| conftest |test_currency_toggle | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 19:25:57,690| conftest |test_currency_toggle | INFO | Start driver chrome
+2022-06-21 19:25:57,692| base_page |test_currency_toggle | INFO | Open URL: http://localhost/
+2022-06-21 19:26:00,301| currency |test_currency_toggle | INFO | Find element ('css selector', '.b')
+2022-06-21 19:26:05,394| base_page |test_currency_toggle | ERROR | Element (.b) is not found
+2022-06-21 19:26:05,445| currency |test_currency_toggle | ERROR | Currency is not change!
+2022-06-21 19:26:05,608| conftest |test_currency_toggle | INFO | Stop driver chrome 
+==============================================================================================================
+2022-07-20 15:17:35,957| conftest |test_currency_toggle | INFO | Start driver remote with chrome browser
+2022-07-20 15:17:36,020| base_page |test_currency_toggle | INFO | Open URL: http://10.234.28.102:8081/
+2022-07-20 15:17:48,748| currency |test_currency_toggle | INFO | Find element ('css selector', '.btn-link.dropdown-toggle strong')
+2022-07-20 15:17:48,760| base_page |test_currency_toggle | INFO | Element (.btn-link.dropdown-toggle strong) is present on the page
+2022-07-20 15:17:48,802| currency |test_currency_toggle | INFO | Find element ('css selector', '.btn-link.dropdown-toggle')
+2022-07-20 15:17:48,812| base_page |test_currency_toggle | INFO | Element (.btn-link.dropdown-toggle) is present on the page
+2022-07-20 15:17:51,520| currency |test_currency_toggle | INFO | Find element ('css selector', '[name="EUR"]')
+2022-07-20 15:17:51,620| base_page |test_currency_toggle | ERROR | Element ([name="EUR"]) is not found
+2022-07-20 15:17:51,925| currency |test_currency_toggle | ERROR | Currency is not change!
+2022-07-20 15:17:52,185| conftest |test_currency_toggle | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:17:45,498| conftest |test_currency_toggle | INFO | Start driver remote with chrome browser
+2022-07-20 17:17:45,584| base_page |test_currency_toggle | INFO | Open URL: http://10.234.28.102:8081/
+2022-07-20 17:17:58,670| currency |test_currency_toggle | INFO | Find element ('css selector', '.btn-link.dropdown-toggle strong')
+2022-07-20 17:17:58,686| base_page |test_currency_toggle | INFO | Element (.btn-link.dropdown-toggle strong) is present on the page
+2022-07-20 17:17:58,710| currency |test_currency_toggle | INFO | Find element ('css selector', '.btn-link.dropdown-toggle')
+2022-07-20 17:17:58,721| base_page |test_currency_toggle | INFO | Element (.btn-link.dropdown-toggle) is present on the page
+2022-07-20 17:18:00,829| currency |test_currency_toggle | INFO | Find element ('css selector', '[name="EUR"]')
+2022-07-20 17:18:00,982| base_page |test_currency_toggle | ERROR | Element ([name="EUR"]) is not found
+2022-07-20 17:18:01,293| currency |test_currency_toggle | ERROR | Currency is not change!
+2022-07-20 17:18:01,366| conftest |test_currency_toggle | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:35:54,010| conftest |test_currency_toggle | INFO | Start driver remote with chrome browser
+2022-07-20 17:35:54,042| base_page |test_currency_toggle | INFO | Open URL: http://10.234.28.102:8081/
+2022-07-20 17:36:08,945| currency |test_currency_toggle | INFO | Find element ('css selector', '.btn-link.dropdown-toggle strong')
+2022-07-20 17:36:08,980| base_page |test_currency_toggle | INFO | Element (.btn-link.dropdown-toggle strong) is present on the page
+2022-07-20 17:36:09,014| currency |test_currency_toggle | INFO | Find element ('css selector', '.btn-link.dropdown-toggle')
+2022-07-20 17:36:09,024| base_page |test_currency_toggle | INFO | Element (.btn-link.dropdown-toggle) is present on the page
+2022-07-20 17:36:11,032| currency |test_currency_toggle | INFO | Find element ('css selector', '[name="EUR"]')
+2022-07-20 17:36:11,121| base_page |test_currency_toggle | ERROR | Element ([name="EUR"]) is not found
+2022-07-20 17:36:11,295| currency |test_currency_toggle | ERROR | Currency is not change!
+2022-07-20 17:36:11,465| conftest |test_currency_toggle | INFO | Stop driver remote 
+==============================================================================================================

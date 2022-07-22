@@ -1,0 +1,865 @@
+2022-06-20 11:04:25,328| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-20 11:04:26,630| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-20 11:04:30,288| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-20 11:04:30,301| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-20 11:04:30,302| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 11:06:21,392| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-20 11:06:22,912| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-20 11:06:27,008| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-20 11:06:27,018| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-20 11:06:27,020| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 11:08:11,066| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-20 11:08:11,068| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-20 11:08:15,514| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-20 11:08:15,524| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-20 11:08:15,525| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 11:08:36,724| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-20 11:08:36,726| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-20 11:08:37,863| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-20 11:08:37,872| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-20 11:08:37,874| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 11:09:14,756| conftest |test_username_field | INFO | Start driver chrome
+2022-06-20 11:09:14,759| base_page |test_username_field | INFO | Open URL: http://localhost/admin
+2022-06-20 11:09:15,882| admin_page |test_username_field | INFO | Find element (#input-username) by using (css selector)
+2022-06-20 11:09:15,891| base_page |test_username_field | INFO | Element (#input-username) is present on the page
+2022-06-20 11:09:15,892| conftest |test_username_field | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 14:33:26,365| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-20 14:33:26,378| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-20 14:33:31,229| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-20 14:33:31,270| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-20 14:33:31,271| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 14:33:34,872| conftest |test_username_field | INFO | Start driver chrome
+2022-06-20 14:33:34,874| base_page |test_username_field | INFO | Open URL: http://localhost/admin
+2022-06-20 14:33:37,096| admin_page |test_username_field | INFO | Find element (#input-username) by using (css selector)
+2022-06-20 14:33:37,105| base_page |test_username_field | INFO | Element (#input-username) is present on the page
+2022-06-20 14:33:37,108| conftest |test_username_field | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 14:33:40,399| conftest |test_password_field | INFO | Start driver chrome
+2022-06-20 14:33:40,400| base_page |test_password_field | INFO | Open URL: http://localhost/admin
+2022-06-20 14:33:43,196| admin_page |test_password_field | INFO | Find element (#input-password) by using (css selector)
+2022-06-20 14:33:43,207| base_page |test_password_field | INFO | Element (#input-password) is present on the page
+2022-06-20 14:33:43,209| conftest |test_password_field | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 14:33:46,572| conftest |test_help_block | INFO | Start driver chrome
+2022-06-20 14:33:46,574| base_page |test_help_block | INFO | Open URL: http://localhost/admin
+2022-06-20 14:33:51,232| admin_page |test_help_block | INFO | Find element (.help-block) by using (css selector)
+2022-06-20 14:33:51,246| base_page |test_help_block | INFO | Element (.help-block) is present on the page
+2022-06-20 14:33:51,247| conftest |test_help_block | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 14:33:54,854| conftest |test_btn_login | INFO | Start driver chrome
+2022-06-20 14:33:54,855| base_page |test_btn_login | INFO | Open URL: http://localhost/admin
+2022-06-20 14:34:00,856| admin_page |test_btn_login | INFO | Find element (button) by using (css selector)
+2022-06-20 14:34:00,867| base_page |test_btn_login | INFO | Element (button) is present on the page
+2022-06-20 14:34:00,894| conftest |test_btn_login | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 15:09:41,371| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-20 15:09:41,428| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-20 15:09:46,480| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-20 15:09:46,506| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-20 15:09:46,515| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 15:09:50,206| conftest |test_username_field | INFO | Start driver chrome
+2022-06-20 15:09:50,208| base_page |test_username_field | INFO | Open URL: http://localhost/admin
+2022-06-20 15:09:51,872| admin_page |test_username_field | INFO | Find element (#input-username) by using (css selector)
+2022-06-20 15:09:51,882| base_page |test_username_field | INFO | Element (#input-username) is present on the page
+2022-06-20 15:09:51,883| conftest |test_username_field | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 15:09:55,346| conftest |test_password_field | INFO | Start driver chrome
+2022-06-20 15:09:55,348| base_page |test_password_field | INFO | Open URL: http://localhost/admin
+2022-06-20 15:09:56,532| admin_page |test_password_field | INFO | Find element (#input-password) by using (css selector)
+2022-06-20 15:09:56,541| base_page |test_password_field | INFO | Element (#input-password) is present on the page
+2022-06-20 15:09:56,542| conftest |test_password_field | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 15:09:59,769| conftest |test_help_block | INFO | Start driver chrome
+2022-06-20 15:09:59,770| base_page |test_help_block | INFO | Open URL: http://localhost/admin
+2022-06-20 15:10:01,103| admin_page |test_help_block | INFO | Find element (.help-block) by using (css selector)
+2022-06-20 15:10:01,112| base_page |test_help_block | INFO | Element (.help-block) is present on the page
+2022-06-20 15:10:01,149| conftest |test_help_block | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 15:10:04,565| conftest |test_btn_login | INFO | Start driver chrome
+2022-06-20 15:10:04,566| base_page |test_btn_login | INFO | Open URL: http://localhost/admin
+2022-06-20 15:10:05,778| admin_page |test_btn_login | INFO | Find element (button) by using (css selector)
+2022-06-20 15:10:05,787| base_page |test_btn_login | INFO | Element (button) is present on the page
+2022-06-20 15:10:05,788| conftest |test_btn_login | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 16:15:44,879| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-20 16:15:44,881| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-20 16:15:49,603| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-20 16:15:49,613| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-20 16:15:49,614| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 16:15:52,968| conftest |test_username_field | INFO | Start driver chrome
+2022-06-20 16:15:52,971| base_page |test_username_field | INFO | Open URL: http://localhost/admin
+2022-06-20 16:15:54,330| admin_page |test_username_field | INFO | Find element (#input-username) by using (css selector)
+2022-06-20 16:15:54,341| base_page |test_username_field | INFO | Element (#input-username) is present on the page
+2022-06-20 16:15:54,342| conftest |test_username_field | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 16:15:57,561| conftest |test_password_field | INFO | Start driver chrome
+2022-06-20 16:15:57,563| base_page |test_password_field | INFO | Open URL: http://localhost/admin
+2022-06-20 16:15:58,830| admin_page |test_password_field | INFO | Find element (#input-password) by using (css selector)
+2022-06-20 16:15:58,839| base_page |test_password_field | INFO | Element (#input-password) is present on the page
+2022-06-20 16:15:58,841| conftest |test_password_field | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 16:16:02,122| conftest |test_help_block | INFO | Start driver chrome
+2022-06-20 16:16:02,124| base_page |test_help_block | INFO | Open URL: http://localhost/admin
+2022-06-20 16:16:03,476| admin_page |test_help_block | INFO | Find element (.help-block) by using (css selector)
+2022-06-20 16:16:03,485| base_page |test_help_block | INFO | Element (.help-block) is present on the page
+2022-06-20 16:16:03,487| conftest |test_help_block | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 16:16:06,621| conftest |test_btn_login | INFO | Start driver chrome
+2022-06-20 16:16:06,622| base_page |test_btn_login | INFO | Open URL: http://localhost/admin
+2022-06-20 16:16:08,403| admin_page |test_btn_login | INFO | Find element (button) by using (css selector)
+2022-06-20 16:16:08,412| base_page |test_btn_login | INFO | Element (button) is present on the page
+2022-06-20 16:16:08,414| conftest |test_btn_login | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 16:18:09,730| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-20 16:18:09,734| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-20 16:18:12,311| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-20 16:18:12,320| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-20 16:18:12,322| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 16:18:16,728| conftest |test_username_field | INFO | Start driver chrome
+2022-06-20 16:18:16,730| base_page |test_username_field | INFO | Open URL: http://localhost/admin
+2022-06-20 16:18:18,528| admin_page |test_username_field | INFO | Find element (#input-username) by using (css selector)
+2022-06-20 16:18:18,540| base_page |test_username_field | INFO | Element (#input-username) is present on the page
+2022-06-20 16:18:18,542| conftest |test_username_field | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 16:18:21,797| conftest |test_password_field | INFO | Start driver chrome
+2022-06-20 16:18:21,800| base_page |test_password_field | INFO | Open URL: http://localhost/admin
+2022-06-20 16:18:24,181| admin_page |test_password_field | INFO | Find element (#input-password) by using (css selector)
+2022-06-20 16:18:24,191| base_page |test_password_field | INFO | Element (#input-password) is present on the page
+2022-06-20 16:18:24,210| conftest |test_password_field | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 16:18:27,530| conftest |test_help_block | INFO | Start driver chrome
+2022-06-20 16:18:27,532| base_page |test_help_block | INFO | Open URL: http://localhost/admin
+2022-06-20 16:18:29,453| admin_page |test_help_block | INFO | Find element (.help-block) by using (css selector)
+2022-06-20 16:18:29,462| base_page |test_help_block | INFO | Element (.help-block) is present on the page
+2022-06-20 16:18:29,477| conftest |test_help_block | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 16:18:32,817| conftest |test_btn_login | INFO | Start driver chrome
+2022-06-20 16:18:32,819| base_page |test_btn_login | INFO | Open URL: http://localhost/admin
+2022-06-20 16:18:34,674| admin_page |test_btn_login | INFO | Find element (button) by using (css selector)
+2022-06-20 16:18:34,684| base_page |test_btn_login | INFO | Element (button) is present on the page
+2022-06-20 16:18:34,702| conftest |test_btn_login | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 14:42:37,794| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-21 14:42:37,837| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-21 14:42:42,061| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-21 14:42:42,073| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-21 14:42:42,074| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 14:45:44,815| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-21 14:45:44,817| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-21 14:45:46,147| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-21 14:45:46,157| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-21 14:45:46,158| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 14:48:46,471| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-21 14:48:46,473| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-21 14:48:48,005| admin_page |test_description_actions | INFO | Find element (.pan) by using (css selector)
+2022-06-21 14:48:53,047| base_page |test_description_actions | ERROR | Element (.pan) is not found
+2022-06-21 14:48:53,219| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 14:52:06,149| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-21 14:52:06,151| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-21 14:52:07,803| admin_page |test_description_actions | INFO | Find element (.pan) by using (css selector)
+2022-06-21 14:52:12,855| admin_page |test_description_actions | ERROR | Not description actions for admin
+2022-06-21 14:52:13,041| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 15:27:16,482| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-21 15:27:16,532| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-21 15:27:20,962| admin_page |test_description_actions | INFO | Find element (.pan) by using (css selector)
+2022-06-21 15:27:25,966| admin_page |test_description_actions | ERROR | Not description actions for admin
+2022-06-21 15:27:26,163| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 15:27:41,647| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-21 15:27:41,649| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-21 15:27:43,021| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-21 15:27:43,036| admin_page |test_description_actions | ERROR | Not description actions for admin
+2022-06-21 15:27:43,170| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 15:28:04,002| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-21 15:28:04,004| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-21 15:28:05,518| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-21 15:28:05,533| admin_page |test_description_actions | ERROR | Not description actions for admin
+2022-06-21 15:28:05,662| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 15:36:09,501| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-21 15:36:09,505| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-21 15:36:13,256| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-21 15:36:13,265| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-21 15:36:13,267| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 15:36:35,685| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-21 15:36:35,688| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-21 15:36:36,888| admin_page |test_description_actions | INFO | Find element (.pan) by using (css selector)
+2022-06-21 15:36:41,906| base_page |test_description_actions | ERROR | Element (.pan) is not found
+2022-06-21 15:36:41,912| admin_page |test_description_actions | ERROR | Not description actions for admin
+2022-06-21 15:36:42,096| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 16:03:52,082| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-21 16:03:52,085| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-21 16:03:56,206| admin_page |test_description_actions | INFO | Find element (.pan) by using (css selector)
+2022-06-21 16:04:01,222| base_page |test_description_actions | ERROR | Element (.pan) is not found
+2022-06-21 16:04:01,224| admin_page |test_description_actions | ERROR | Not description actions for admin
+2022-06-21 16:04:01,391| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 16:04:04,577| conftest |test_username_field | INFO | Start driver chrome
+2022-06-21 16:04:04,579| base_page |test_username_field | INFO | Open URL: http://localhost/admin
+2022-06-21 16:04:06,003| admin_page |test_username_field | INFO | Find element (#input-username) by using (css selector)
+2022-06-21 16:04:06,012| base_page |test_username_field | INFO | Element (#input-username) is present on the page
+2022-06-21 16:04:06,013| conftest |test_username_field | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 16:04:09,209| conftest |test_password_field | INFO | Start driver chrome
+2022-06-21 16:04:09,211| base_page |test_password_field | INFO | Open URL: http://localhost/admin
+2022-06-21 16:04:10,491| admin_page |test_password_field | INFO | Find element (#input-password) by using (css selector)
+2022-06-21 16:04:10,501| base_page |test_password_field | INFO | Element (#input-password) is present on the page
+2022-06-21 16:04:10,502| conftest |test_password_field | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 16:04:13,666| conftest |test_help_block | INFO | Start driver chrome
+2022-06-21 16:04:13,671| base_page |test_help_block | INFO | Open URL: http://localhost/admin
+2022-06-21 16:04:14,973| admin_page |test_help_block | INFO | Find element (.help-block) by using (css selector)
+2022-06-21 16:04:14,985| base_page |test_help_block | INFO | Element (.help-block) is present on the page
+2022-06-21 16:04:14,987| conftest |test_help_block | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 16:04:18,198| conftest |test_btn_login | INFO | Start driver chrome
+2022-06-21 16:04:18,200| base_page |test_btn_login | INFO | Open URL: http://localhost/admin
+2022-06-21 16:04:19,532| admin_page |test_btn_login | INFO | Find element (button) by using (css selector)
+2022-06-21 16:04:19,541| base_page |test_btn_login | INFO | Element (button) is present on the page
+2022-06-21 16:04:19,543| conftest |test_btn_login | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 11:56:25,555| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-22 11:56:25,570| base_page |test_description_actions | INFO | Open URL: http://loca/admin
+2022-06-22 11:56:30,619| base_page |test_description_actions | INFO | URL http://loca/admin is not found
+2022-06-22 11:56:30,804| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 12:09:20,327| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-22 12:09:20,329| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-22 12:09:24,984| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-22 12:09:24,993| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-22 12:09:24,995| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 12:10:41,557| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-22 12:10:41,559| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-22 12:10:42,997| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-22 12:10:43,005| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-22 12:10:43,007| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 12:10:46,273| conftest |test_username_field | INFO | Start driver chrome
+2022-06-22 12:10:46,275| base_page |test_username_field | INFO | Open URL: http://localhost/admin
+2022-06-22 12:10:47,479| admin_page |test_username_field | INFO | Find element (#input-username) by using (css selector)
+2022-06-22 12:10:47,488| base_page |test_username_field | INFO | Element (#input-username) is present on the page
+2022-06-22 12:10:47,489| conftest |test_username_field | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 12:10:50,692| conftest |test_password_field | INFO | Start driver chrome
+2022-06-22 12:10:50,694| base_page |test_password_field | INFO | Open URL: http://localhost/admin
+2022-06-22 12:10:52,115| admin_page |test_password_field | INFO | Find element (#input-password) by using (css selector)
+2022-06-22 12:10:52,124| base_page |test_password_field | INFO | Element (#input-password) is present on the page
+2022-06-22 12:10:52,126| conftest |test_password_field | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 12:10:55,292| conftest |test_help_block | INFO | Start driver chrome
+2022-06-22 12:10:55,293| base_page |test_help_block | INFO | Open URL: http://localhost/admin
+2022-06-22 12:10:56,407| admin_page |test_help_block | INFO | Find element (.help-block) by using (css selector)
+2022-06-22 12:10:56,416| base_page |test_help_block | INFO | Element (.help-block) is present on the page
+2022-06-22 12:10:56,417| conftest |test_help_block | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 12:10:59,701| conftest |test_btn_login | INFO | Start driver chrome
+2022-06-22 12:10:59,703| base_page |test_btn_login | INFO | Open URL: http://localhost/admin
+2022-06-22 12:11:01,101| admin_page |test_btn_login | INFO | Find element (button) by using (css selector)
+2022-06-22 12:11:01,109| base_page |test_btn_login | INFO | Element (button) is present on the page
+2022-06-22 12:11:01,111| conftest |test_btn_login | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 18:22:35,731| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-22 18:22:48,656| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-22 18:22:49,078| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-22 18:22:49,081| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-22 18:34:38,946| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-22 18:34:43,902| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-22 18:34:43,917| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-22 18:34:43,919| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-22 18:40:49,320| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-22 18:40:49,320| conftest |test_username_field | INFO | Start driver chrome
+2022-06-22 18:40:49,320| conftest |test_password_field | INFO | Start driver chrome
+2022-06-22 18:40:49,334| base_page |test_password_field | INFO | Open URL: http://localhost/admin
+2022-06-22 18:40:49,335| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-22 18:40:49,335| base_page |test_username_field | INFO | Open URL: http://localhost/admin
+2022-06-22 18:41:02,766| admin_page |test_password_field | INFO | Find element (#input-password) by using (css selector)
+r)
+2022-06-22 18:41:02,769| admin_page |test_username_field | INFO | Find element (#input-username) by using (css selector)
+2022-06-22 18:41:02,776| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-22 18:41:02,777| base_page |test_password_field | INFO | Element (#input-password) is present on the page
+2022-06-22 18:41:02,779| base_page |test_username_field | INFO | Element (#input-username) is present on the page
+2022-06-22 18:41:02,792| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 18:41:02,792| conftest |test_password_field | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 18:41:02,792| conftest |test_username_field | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 18:41:06,493| conftest |test_help_block | INFO | Start driver chrome
+2022-06-22 18:41:06,496| base_page |test_help_block | INFO | Open URL: http://localhost/admin
+2022-06-22 18:41:06,503| conftest |test_btn_login | INFO | Start driver chrome
+2022-06-22 18:41:06,505| base_page |test_btn_login | INFO | Open URL: http://localhost/admin
+2022-06-22 18:41:09,580| admin_page |test_help_block | INFO | Find element (.help-block) by using (css selector)
+2022-06-22 18:41:09,589| base_page |test_help_block | INFO | Element (.help-block) is present on the page
+2022-06-22 18:41:09,591| conftest |test_help_block | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 18:41:09,774| admin_page |test_btn_login | INFO | Find element (button) by using (css selector)
+2022-06-22 18:41:09,784| base_page |test_btn_login | INFO | Element (button) is present on the page
+2022-06-22 18:41:09,785| conftest |test_btn_login | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 18:41:39,241| conftest |test_description_actions | INFO | Start remote driver
+2022-06-22 18:41:39,257| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-22 18:41:43,144| conftest |test_password_field | INFO | Start remote driver
+2022-06-22 18:41:43,484| base_page |test_password_field | INFO | Open URL: http://localhost/admin
+2022-06-22 18:41:44,251| conftest |test_username_field | INFO | Start remote driver
+2022-06-22 18:41:44,262| base_page |test_username_field | INFO | Open URL: http://localhost/admin
+2022-06-22 18:42:14,216| admin_page |test_password_field | INFO | Find element (#input-password) by using (css selector)
+2022-06-22 18:42:14,222| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-22 18:42:14,236| base_page |test_password_field | INFO | Element (#input-password) is present on the page
+2022-06-22 18:42:14,237| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-22 18:42:14,874| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-22 18:42:14,874| conftest |test_password_field | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-22 18:42:20,124| admin_page |test_username_field | INFO | Find element (#input-username) by using (css selector)
+2022-06-22 18:42:20,143| base_page |test_username_field | INFO | Element (#input-username) is present on the page
+2022-06-22 18:42:20,144| conftest |test_username_field | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-22 18:42:30,277| conftest |test_help_block | INFO | Start remote driver
+2022-06-22 18:42:30,282| base_page |test_help_block | INFO | Open URL: http://localhost/admin
+2022-06-22 18:42:31,181| conftest |test_btn_login | INFO | Start remote driver
+2022-06-22 18:42:31,186| base_page |test_btn_login | INFO | Open URL: http://localhost/admin
+2022-06-22 18:42:45,340| admin_page |test_help_block | INFO | Find element (.help-block) by using (css selector)
+2022-06-22 18:42:45,355| base_page |test_help_block | INFO | Element (.help-block) is present on the page
+2022-06-22 18:42:45,356| conftest |test_help_block | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-22 18:42:46,008| admin_page |test_btn_login | INFO | Find element (button) by using (css selector)
+2022-06-22 18:42:46,024| base_page |test_btn_login | INFO | Element (button) is present on the page
+2022-06-22 18:42:46,025| conftest |test_btn_login | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-22 18:44:54,460| conftest |test_description_actions | INFO | Start remote driver
+2022-06-22 18:44:54,476| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-22 18:44:58,450| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-22 18:44:58,463| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-22 18:44:58,465| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-22 18:45:00,236| conftest |test_username_field | INFO | Start remote driver
+2022-06-22 18:45:00,240| base_page |test_username_field | INFO | Open URL: http://localhost/admin
+2022-06-22 18:45:03,825| admin_page |test_username_field | INFO | Find element (#input-username) by using (css selector)
+2022-06-22 18:45:03,837| base_page |test_username_field | INFO | Element (#input-username) is present on the page
+2022-06-22 18:45:03,838| conftest |test_username_field | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-22 18:45:06,109| conftest |test_password_field | INFO | Start remote driver
+2022-06-22 18:45:06,117| base_page |test_password_field | INFO | Open URL: http://localhost/admin
+2022-06-22 18:45:09,870| admin_page |test_password_field | INFO | Find element (#input-password) by using (css selector)
+2022-06-22 18:45:09,883| base_page |test_password_field | INFO | Element (#input-password) is present on the page
+2022-06-22 18:45:09,884| conftest |test_password_field | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-22 18:45:11,815| conftest |test_help_block | INFO | Start remote driver
+2022-06-22 18:45:11,820| base_page |test_help_block | INFO | Open URL: http://localhost/admin
+2022-06-22 18:45:14,703| admin_page |test_help_block | INFO | Find element (.help-block) by using (css selector)
+2022-06-22 18:45:14,715| base_page |test_help_block | INFO | Element (.help-block) is present on the page
+2022-06-22 18:45:14,717| conftest |test_help_block | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-22 18:45:17,281| conftest |test_btn_login | INFO | Start remote driver
+2022-06-22 18:45:17,285| base_page |test_btn_login | INFO | Open URL: http://localhost/admin
+2022-06-22 18:45:20,048| admin_page |test_btn_login | INFO | Find element (button) by using (css selector)
+2022-06-22 18:45:20,060| base_page |test_btn_login | INFO | Element (button) is present on the page
+2022-06-22 18:45:20,062| conftest |test_btn_login | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-22 18:47:43,813| conftest |test_description_actions | INFO | Start remote driver
+2022-06-22 18:47:43,828| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-22 18:47:47,250| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-22 18:47:47,263| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-22 18:47:47,265| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-22 18:48:23,626| conftest |test_description_actions | INFO | Start remote driver
+2022-06-22 18:48:23,628| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-22 18:48:26,688| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-22 18:48:26,701| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-22 18:48:26,702| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-22 18:49:58,631| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-22 18:50:02,614| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-22 18:50:02,626| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-22 18:50:02,628| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-22 18:52:05,514| conftest |test_description_actions | INFO | Start remote driver
+2022-06-22 18:52:05,516| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-22 18:52:09,861| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-22 18:52:09,876| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-22 18:52:09,878| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-22 19:04:20,189| conftest |test_description_actions | INFO | Start remote driver
+2022-06-22 19:04:20,191| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-22 19:04:25,156| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-22 19:04:25,170| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-22 19:04:25,172| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-22 19:10:58,717| conftest |test_description_actions | INFO | Start remote driver
+2022-06-22 19:10:58,719| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-22 19:11:02,866| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-22 19:11:02,880| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-22 19:11:02,882| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-22 19:11:55,892| conftest |test_description_actions | INFO | Start remote driver
+2022-06-22 19:11:55,894| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-22 19:11:59,668| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-22 19:11:59,683| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-22 19:11:59,684| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-22 19:15:23,846| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-22 19:15:23,849| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-22 19:15:28,454| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-22 19:15:28,463| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-22 19:15:28,464| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 19:16:00,906| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-22 19:16:00,908| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-22 19:16:02,128| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-22 19:16:02,137| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-22 19:16:02,139| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 19:16:53,560| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-22 19:16:53,562| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-22 19:16:54,855| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-22 19:16:54,864| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-22 19:16:54,866| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 19:17:04,399| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-22 19:17:04,401| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-22 19:17:06,232| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-22 19:17:06,241| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-22 19:17:06,242| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 19:17:33,237| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-22 19:17:33,240| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-22 19:17:34,778| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-22 19:17:34,787| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-22 19:17:34,788| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 19:17:59,233| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-22 19:17:59,235| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-22 19:18:00,453| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-22 19:18:00,463| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-22 19:18:00,465| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 19:18:06,797| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-22 19:18:06,799| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-22 19:18:08,566| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-22 19:18:08,575| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-22 19:18:08,577| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 19:18:41,692| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-22 19:18:41,694| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-22 19:18:43,120| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-22 19:18:43,129| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-22 19:18:43,131| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-23 15:45:51,802| conftest |test_description_actions | INFO | Start remote driver chrome
+2022-06-23 15:45:51,830| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-23 15:46:00,460| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-23 15:46:00,476| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-23 15:46:00,477| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-23 15:46:46,362| conftest |test_description_actions | INFO | Start remote driver chrome
+2022-06-23 15:46:46,364| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-23 15:46:49,619| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-23 15:46:49,633| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-23 15:46:49,634| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-23 15:49:53,555| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-23 15:49:53,574| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-23 15:49:58,456| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-23 15:49:58,465| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-23 15:49:58,467| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-23 15:50:42,627| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-23 15:50:42,629| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-23 15:50:44,463| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-23 15:50:44,473| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-23 15:50:44,482| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-23 16:09:36,735| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-23 16:09:36,738| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-23 16:09:41,166| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-23 16:09:41,175| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-23 16:09:41,177| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-23 16:12:00,138| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-06-23 16:12:00,140| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-23 16:12:03,891| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-23 16:12:03,906| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-23 16:12:03,917| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-23 16:30:32,135| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-06-23 16:30:32,164| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-23 16:30:33,984| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-23 16:30:34,017| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-23 16:30:34,018| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-23 16:56:36,571| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-06-23 16:56:36,603| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-23 16:56:39,589| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-23 16:56:39,725| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-23 16:56:39,727| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-24 11:45:37,526| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-24 11:46:11,711| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-24 11:49:49,955| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-24 11:55:02,874| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-24 11:55:02,947| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-24 11:55:08,766| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-24 11:55:08,805| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-24 11:55:08,826| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-24 11:56:14,964| conftest |test_description_actions | INFO | Start driver remote
+2022-06-24 11:56:50,016| conftest |test_description_actions | INFO | Start driver remote
+2022-06-24 11:57:36,894| conftest |test_description_actions | INFO | Start driver remote
+2022-06-24 12:23:20,731| conftest |test_description_actions | INFO | Start driver remote
+2022-06-24 12:24:24,444| conftest |test_description_actions | INFO | Start driver remote
+2022-06-24 12:26:08,444| conftest |test_description_actions | INFO | Start driver remote
+2022-06-24 12:26:47,979| conftest |test_description_actions | INFO | Start driver remote
+2022-06-24 15:42:38,365| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-24 15:43:01,912| base_page |test_description_actions | INFO | URL http://localhost/admin is not found
+2022-06-24 15:43:02,376| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-24 15:43:28,302| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-24 15:43:28,305| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-24 15:43:43,397| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-24 15:43:43,471| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-24 15:43:43,474| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-24 16:53:15,473| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-24 16:53:15,497| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-24 16:53:18,948| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-24 16:53:24,160| base_page |test_description_actions | ERROR | Element (.panel-heading) is not found
+2022-06-24 16:53:24,223| admin_page |test_description_actions | ERROR | Not description actions for admin
+2022-06-24 16:53:24,484| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-24 16:54:43,540| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-24 16:54:43,543| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-24 16:54:44,379| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-24 16:54:49,478| base_page |test_description_actions | ERROR | Element (.panel-heading) is not found
+2022-06-24 16:54:49,540| admin_page |test_description_actions | ERROR | Not description actions for admin
+2022-06-24 16:54:49,734| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-24 17:35:26,341| conftest |test_description_actions | INFO | Start driver chrome
+2022-06-24 17:35:26,511| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-24 17:35:41,672| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-24 17:35:41,749| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-24 17:35:41,783| conftest |test_description_actions | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-26 12:54:25,108| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-06-26 12:54:25,110| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-26 12:54:28,070| base_page |test_description_actions | INFO | URL http://localhost/admin is not found
+2022-06-26 12:54:28,539| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 12:55:03,372| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-06-26 12:55:03,374| base_page |test_description_actions | INFO | Open URL: http://localhost/admin
+2022-06-26 12:55:05,709| base_page |test_description_actions | INFO | URL http://localhost/admin is not found
+2022-06-26 12:55:05,873| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 12:55:57,685| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-06-26 12:55:57,686| base_page |test_description_actions | INFO | Open URL: http://localhost:8081/admin
+2022-06-26 12:55:59,997| base_page |test_description_actions | INFO | URL http://localhost:8081/admin is not found
+2022-06-26 12:56:00,182| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 12:57:02,204| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-06-26 12:57:02,206| base_page |test_description_actions | INFO | Open URL: http://localhost:8081/admin
+2022-06-26 12:57:05,950| base_page |test_description_actions | INFO | URL http://localhost:8081/admin is not found
+2022-06-26 12:57:06,120| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 13:53:11,076| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-06-26 13:53:11,486| base_page |test_description_actions | INFO | Open URL: http://localhost:8081/admin
+2022-06-26 13:53:14,258| base_page |test_description_actions | INFO | URL http://localhost:8081/admin is not found
+2022-06-26 13:53:14,581| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 13:54:13,967| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-06-26 13:54:13,969| base_page |test_description_actions | INFO | Open URL: http://localhost:8081/
+2022-06-26 13:54:18,256| base_page |test_description_actions | INFO | URL http://localhost:8081/ is not found
+2022-06-26 13:54:18,425| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 13:54:41,875| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-06-26 13:57:11,242| base_page |test_description_actions | INFO | Open URL: http://localhost:8081/
+2022-06-26 13:57:18,431| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 13:58:56,486| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-06-26 13:58:56,488| base_page |test_description_actions | INFO | Open URL: http://localhost:8081/
+2022-06-26 13:58:58,871| base_page |test_description_actions | INFO | URL http://localhost:8081/ is not found
+2022-06-26 13:58:59,036| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 14:00:16,904| conftest |test_username_field | INFO | Start driver remote with chrome browser
+2022-06-26 14:00:16,906| base_page |test_username_field | INFO | Open URL: http://localhost:8081/admin
+2022-06-26 14:00:19,215| base_page |test_username_field | INFO | URL http://localhost:8081/admin is not found
+2022-06-26 14:00:19,391| conftest |test_username_field | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 14:17:14,355| conftest |test_username_field | INFO | Start driver remote with chrome browser
+2022-06-26 14:17:14,403| base_page |test_username_field | INFO | Open URL: http://localhost:8081/admin
+2022-06-26 14:17:17,706| base_page |test_username_field | INFO | URL http://localhost:8081/admin is not found
+2022-06-26 14:17:18,280| conftest |test_username_field | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 14:18:08,175| conftest |test_username_field | INFO | Start driver chrome
+2022-06-26 14:18:08,178| base_page |test_username_field | INFO | Open URL: http://localhost:8081/admin
+2022-06-26 14:18:17,263| admin_page |test_username_field | INFO | Find element (#input-username) by using (css selector)
+2022-06-26 14:18:17,292| base_page |test_username_field | INFO | Element (#input-username) is present on the page
+2022-06-26 14:18:17,294| conftest |test_username_field | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-26 14:27:25,105| conftest |test_username_field | INFO | Start driver remote with chrome browser
+2022-06-26 14:27:25,107| base_page |test_username_field | INFO | Open URL: http://localhost:8081/admin
+2022-06-26 14:27:29,920| base_page |test_username_field | INFO | URL http://localhost:8081/admin is not found
+2022-06-26 14:27:30,089| conftest |test_username_field | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 15:41:11,991| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-06-26 15:41:12,278| base_page |test_description_actions | INFO | Open URL: https://yandex.ru/
+2022-06-26 15:41:41,229| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-26 15:41:42,091| base_page |test_description_actions | ERROR | Element (.panel-heading) is not found
+2022-06-26 15:41:42,458| admin_page |test_description_actions | ERROR | Not description actions for admin
+2022-06-26 15:41:42,771| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 15:42:35,839| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-06-26 15:42:35,840| base_page |test_description_actions | INFO | Open URL: https://yandex.ru/
+2022-06-26 15:42:39,374| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 15:44:19,332| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-06-26 15:44:19,334| base_page |test_description_actions | INFO | Open URL: http://localhost:8081/admin
+2022-06-26 15:44:21,861| base_page |test_description_actions | INFO | URL http://localhost:8081/admin is not found
+2022-06-26 15:44:22,048| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 15:44:56,580| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-06-26 15:44:56,582| base_page |test_description_actions | INFO | Open URL: http://80.237.73.16:8081/admin
+2022-06-26 15:45:01,784| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-26 15:45:01,802| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-26 15:45:01,821| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 15:45:53,848| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-06-26 15:45:53,849| base_page |test_description_actions | INFO | Open URL: http://80.237.73.16:8081/admin
+2022-06-26 15:45:56,825| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-26 15:45:56,837| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-26 15:45:56,839| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 15:55:52,455| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-06-26 15:55:52,457| base_page |test_description_actions | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-06-26 15:56:01,109| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-26 15:56:01,132| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-26 15:56:01,134| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 15:56:25,509| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-06-26 15:56:25,511| base_page |test_description_actions | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-06-26 15:56:31,816| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-26 15:56:31,836| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-26 15:56:31,838| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 15:57:47,383| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-06-26 15:57:47,385| base_page |test_description_actions | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-06-26 15:57:54,051| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-26 15:57:54,062| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-26 15:57:54,063| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 15:58:09,777| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-06-26 15:58:09,779| base_page |test_description_actions | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-06-26 15:58:16,632| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-26 15:58:16,651| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-26 15:58:16,653| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 15:59:56,764| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-06-26 15:59:56,766| base_page |test_description_actions | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-06-26 16:00:03,889| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-26 16:00:03,907| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-26 16:00:13,915| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 16:33:30,671| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-06-26 16:33:30,673| base_page |test_description_actions | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-06-26 16:33:36,848| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-26 16:33:36,860| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-26 16:33:46,866| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 17:02:39,626| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-06-26 17:02:39,627| base_page |test_description_actions | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-06-26 17:02:46,011| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-26 17:02:46,024| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-26 17:02:56,034| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 21:41:34,424| conftest |test_description_actions | INFO | Start driver remote with opera browser
+2022-06-26 21:41:34,984| base_page |test_description_actions | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-06-26 21:41:44,258| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-26 21:41:44,271| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-26 21:41:44,442| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 21:47:54,435| conftest |test_description_actions | INFO | Start driver remote with opera browser
+2022-06-26 21:47:54,439| base_page |test_description_actions | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-06-26 21:48:04,189| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-26 21:48:04,202| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-26 21:48:04,204| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 21:48:14,864| conftest |test_username_field | INFO | Start driver remote with opera browser
+2022-06-26 21:48:14,864| base_page |test_username_field | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-06-26 21:48:21,566| admin_page |test_username_field | INFO | Find element (#input-username) by using (css selector)
+2022-06-26 21:48:21,578| base_page |test_username_field | INFO | Element (#input-username) is present on the page
+2022-06-26 21:48:21,580| conftest |test_username_field | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 21:48:28,094| conftest |test_password_field | INFO | Start driver remote with opera browser
+2022-06-26 21:48:28,096| base_page |test_password_field | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-06-26 21:48:35,483| admin_page |test_password_field | INFO | Find element (#input-password) by using (css selector)
+2022-06-26 21:48:35,495| base_page |test_password_field | INFO | Element (#input-password) is present on the page
+2022-06-26 21:48:35,497| conftest |test_password_field | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 21:48:41,680| conftest |test_help_block | INFO | Start driver remote with opera browser
+2022-06-26 21:48:41,681| base_page |test_help_block | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-06-26 21:48:49,269| admin_page |test_help_block | INFO | Find element (.help-block) by using (css selector)
+2022-06-26 21:48:49,280| base_page |test_help_block | INFO | Element (.help-block) is present on the page
+2022-06-26 21:48:49,282| conftest |test_help_block | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 21:48:55,226| conftest |test_btn_login | INFO | Start driver remote with opera browser
+2022-06-26 21:48:55,227| base_page |test_btn_login | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-06-26 21:49:02,437| admin_page |test_btn_login | INFO | Find element (button) by using (css selector)
+2022-06-26 21:49:02,449| base_page |test_btn_login | INFO | Element (button) is present on the page
+2022-06-26 21:49:02,451| conftest |test_btn_login | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 21:52:50,823| conftest |test_help_block | INFO | Start driver remote with opera browser
+2022-06-26 21:52:50,827| conftest |test_username_field | INFO | Start driver remote with opera browser
+2022-06-26 21:52:50,841| base_page |test_help_block | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-06-26 21:52:50,842| base_page |test_username_field | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-06-26 21:52:52,298| conftest |test_password_field | INFO | Start driver remote with opera browser
+2022-06-26 21:52:52,304| base_page |test_password_field | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-06-26 21:53:01,997| conftest |test_description_actions | INFO | Start driver remote with opera browser
+2022-06-26 21:53:02,000| base_page |test_description_actions | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-06-26 21:53:02,489| conftest |test_btn_login | INFO | Start driver remote with opera browser
+2022-06-26 21:53:02,493| base_page |test_btn_login | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-06-26 21:53:11,169| admin_page |test_username_field | INFO | Find element (#input-username) by using (css selector)
+2022-06-26 21:53:11,183| base_page |test_username_field | INFO | Element (#input-username) is present on the page
+2022-06-26 21:53:11,185| conftest |test_username_field | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 21:53:14,632| admin_page |test_password_field | INFO | Find element (#input-password) by using (css selector)
+2022-06-26 21:53:14,645| base_page |test_password_field | INFO | Element (#input-password) is present on the page
+2022-06-26 21:53:14,648| conftest |test_password_field | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 21:53:18,945| admin_page |test_help_block | INFO | Find element (.help-block) by using (css selector)
+2022-06-26 21:53:18,959| base_page |test_help_block | INFO | Element (.help-block) is present on the page
+2022-06-26 21:53:18,961| conftest |test_help_block | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 21:53:24,914| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-06-26 21:53:24,927| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-06-26 21:53:24,928| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-06-26 21:53:25,698| admin_page |test_btn_login | INFO | Find element (button) by using (css selector)
+2022-06-26 21:53:25,710| base_page |test_btn_login | INFO | Element (button) is present on the page
+2022-06-26 21:53:25,711| conftest |test_btn_login | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 14:23:48,795| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-07-20 14:23:48,893| base_page |test_description_actions | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-07-20 14:24:00,719| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-07-20 14:24:01,218| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-07-20 14:24:01,224| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 14:24:14,543| conftest |test_username_field | INFO | Start driver remote with chrome browser
+2022-07-20 14:24:14,544| base_page |test_username_field | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-07-20 14:24:21,473| admin_page |test_username_field | INFO | Find element (#input-username) by using (css selector)
+2022-07-20 14:24:21,527| base_page |test_username_field | INFO | Element (#input-username) is present on the page
+2022-07-20 14:24:21,528| conftest |test_username_field | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 15:06:18,130| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-07-20 15:06:18,168| base_page |test_description_actions | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-07-20 15:06:25,048| base_page |test_description_actions | INFO | URL http://10.234.28.102:8081/admin is not found
+2022-07-20 15:06:26,257| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 15:06:38,309| conftest |test_username_field | INFO | Start driver remote with chrome browser
+2022-07-20 15:06:38,309| base_page |test_username_field | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-07-20 15:06:45,359| admin_page |test_username_field | INFO | Find element (#input-username) by using (css selector)
+2022-07-20 15:06:45,376| base_page |test_username_field | INFO | Element (#input-username) is present on the page
+2022-07-20 15:06:45,377| conftest |test_username_field | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 15:06:52,367| conftest |test_password_field | INFO | Start driver remote with chrome browser
+2022-07-20 15:06:52,368| base_page |test_password_field | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-07-20 15:11:28,636| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-07-20 15:11:28,820| base_page |test_description_actions | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-07-20 15:11:36,859| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-07-20 15:11:36,878| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-07-20 15:11:36,879| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 15:11:44,631| conftest |test_username_field | INFO | Start driver remote with chrome browser
+2022-07-20 15:11:44,632| base_page |test_username_field | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-07-20 15:11:52,944| admin_page |test_username_field | INFO | Find element (#input-username) by using (css selector)
+2022-07-20 15:11:52,985| base_page |test_username_field | INFO | Element (#input-username) is present on the page
+2022-07-20 15:11:52,987| conftest |test_username_field | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 15:12:04,537| conftest |test_password_field | INFO | Start driver remote with chrome browser
+2022-07-20 15:12:04,538| base_page |test_password_field | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-07-20 15:12:17,568| admin_page |test_password_field | INFO | Find element (#input-password) by using (css selector)
+2022-07-20 15:12:17,585| base_page |test_password_field | INFO | Element (#input-password) is present on the page
+2022-07-20 15:12:17,587| conftest |test_password_field | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 15:12:25,153| conftest |test_help_block | INFO | Start driver remote with chrome browser
+2022-07-20 15:12:25,154| base_page |test_help_block | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-07-20 15:12:32,549| admin_page |test_help_block | INFO | Find element (.help-block) by using (css selector)
+2022-07-20 15:12:32,627| base_page |test_help_block | INFO | Element (.help-block) is present on the page
+2022-07-20 15:12:32,633| conftest |test_help_block | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 15:12:39,534| conftest |test_btn_login | INFO | Start driver remote with chrome browser
+2022-07-20 15:12:39,534| base_page |test_btn_login | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-07-20 15:12:46,275| admin_page |test_btn_login | INFO | Find element (button) by using (css selector)
+2022-07-20 15:12:46,316| base_page |test_btn_login | INFO | Element (button) is present on the page
+2022-07-20 15:12:46,318| conftest |test_btn_login | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:10:55,467| conftest |test_username_field | INFO | Start driver remote with chrome browser
+2022-07-20 17:10:56,097| base_page |test_username_field | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-07-20 17:11:08,450| admin_page |test_username_field | INFO | Find element (#input-username) by using (css selector)
+2022-07-20 17:11:09,292| base_page |test_username_field | INFO | Element (#input-username) is present on the page
+2022-07-20 17:11:09,299| conftest |test_username_field | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:11:24,101| conftest |test_password_field | INFO | Start driver remote with chrome browser
+2022-07-20 17:11:24,102| base_page |test_password_field | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-07-20 17:11:36,150| admin_page |test_password_field | INFO | Find element (#input-password) by using (css selector)
+2022-07-20 17:11:36,192| base_page |test_password_field | INFO | Element (#input-password) is present on the page
+2022-07-20 17:11:36,194| conftest |test_password_field | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:11:47,645| conftest |test_help_block | INFO | Start driver remote with chrome browser
+2022-07-20 17:11:47,648| base_page |test_help_block | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-07-20 17:11:58,433| admin_page |test_help_block | INFO | Find element (.help-block) by using (css selector)
+2022-07-20 17:11:59,114| base_page |test_help_block | INFO | Element (.help-block) is present on the page
+2022-07-20 17:11:59,122| conftest |test_help_block | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:12:08,288| conftest |test_btn_login | INFO | Start driver remote with chrome browser
+2022-07-20 17:12:08,289| base_page |test_btn_login | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-07-20 17:12:16,883| admin_page |test_btn_login | INFO | Find element (button) by using (css selector)
+2022-07-20 17:12:16,911| base_page |test_btn_login | INFO | Element (button) is present on the page
+2022-07-20 17:12:16,912| conftest |test_btn_login | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:30:12,016| conftest |test_description_actions | INFO | Start driver remote with chrome browser
+2022-07-20 17:30:12,018| base_page |test_description_actions | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-07-20 17:30:19,036| admin_page |test_description_actions | INFO | Find element (.panel-heading) by using (css selector)
+2022-07-20 17:30:19,050| base_page |test_description_actions | INFO | Element (.panel-heading) is present on the page
+2022-07-20 17:30:19,051| conftest |test_description_actions | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:30:24,218| conftest |test_username_field | INFO | Start driver remote with chrome browser
+2022-07-20 17:30:24,219| base_page |test_username_field | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-07-20 17:30:30,882| admin_page |test_username_field | INFO | Find element (#input-username) by using (css selector)
+2022-07-20 17:30:30,900| base_page |test_username_field | INFO | Element (#input-username) is present on the page
+2022-07-20 17:30:30,901| conftest |test_username_field | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:30:36,846| conftest |test_password_field | INFO | Start driver remote with chrome browser
+2022-07-20 17:30:36,847| base_page |test_password_field | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-07-20 17:30:43,570| admin_page |test_password_field | INFO | Find element (#input-password) by using (css selector)
+2022-07-20 17:30:43,585| base_page |test_password_field | INFO | Element (#input-password) is present on the page
+2022-07-20 17:30:43,586| conftest |test_password_field | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:30:48,862| conftest |test_help_block | INFO | Start driver remote with chrome browser
+2022-07-20 17:30:48,863| base_page |test_help_block | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-07-20 17:30:55,685| admin_page |test_help_block | INFO | Find element (.help-block) by using (css selector)
+2022-07-20 17:30:55,696| base_page |test_help_block | INFO | Element (.help-block) is present on the page
+2022-07-20 17:30:55,698| conftest |test_help_block | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:31:02,612| conftest |test_btn_login | INFO | Start driver remote with chrome browser
+2022-07-20 17:31:02,613| base_page |test_btn_login | INFO | Open URL: http://10.234.28.102:8081/admin
+2022-07-20 17:31:10,448| admin_page |test_btn_login | INFO | Find element (button) by using (css selector)
+2022-07-20 17:31:10,473| base_page |test_btn_login | INFO | Element (button) is present on the page
+2022-07-20 17:31:10,474| conftest |test_btn_login | INFO | Stop driver remote 
+==============================================================================================================

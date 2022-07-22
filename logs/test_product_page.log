@@ -1,0 +1,1342 @@
+2022-06-20 16:18:50,674| conftest |test_add_product | INFO | Start driver chrome
+2022-06-20 16:18:50,676| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-20 16:18:52,905| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-20 16:18:52,905| product_page |test_add_product | INFO | Enter user name
+2022-06-20 16:18:53,123| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-20 16:18:53,128| product_page |test_add_product | INFO | Enter user password
+2022-06-20 16:18:53,202| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-20 16:19:00,158| product_page |test_add_product | INFO | Login successfully
+2022-06-20 16:19:00,167| base_page |test_add_product | INFO | Element (#menu) is present on the page
+2022-06-20 16:19:00,167| product_page |test_add_product | INFO | Login successfully
+2022-06-20 16:19:00,176| base_page |test_add_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-20 16:19:00,176| product_page |test_add_product | INFO | Click catalog reference
+2022-06-20 16:19:00,597| base_page |test_add_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-20 16:19:00,597| product_page |test_add_product | INFO | Choose product category
+2022-06-20 16:19:01,666| base_page |test_add_product | INFO | Element ([data-original-title="Add New"]) is present on the page
+2022-06-20 16:19:01,666| product_page |test_add_product | INFO | Click btn add new product
+2022-06-20 16:19:03,616| base_page |test_add_product | INFO | Element ([href="#tab-general"]) is present on the page
+2022-06-20 16:19:03,616| product_page |test_add_product | INFO | Click general tab
+2022-06-20 16:19:03,653| base_page |test_add_product | INFO | Element (#input-name1) is present on the page
+2022-06-20 16:19:03,653| product_page |test_add_product | INFO | Enter product name
+2022-06-20 16:19:03,736| base_page |test_add_product | INFO | Element (#input-meta-title1) is present on the page
+2022-06-20 16:19:03,736| product_page |test_add_product | INFO | Enter meta teg title
+2022-06-20 16:19:03,849| base_page |test_add_product | INFO | Element ([href="#tab-data"]) is present on the page
+2022-06-20 16:19:03,849| product_page |test_add_product | INFO | Click data tab
+2022-06-20 16:19:03,921| base_page |test_add_product | INFO | Element (#input-model) is present on the page
+2022-06-20 16:19:03,921| product_page |test_add_product | INFO | Enter model
+2022-06-20 16:19:04,000| base_page |test_add_product | INFO | Element (.pull-right .btn.btn-primary) is present on the page
+2022-06-20 16:19:04,000| product_page |test_add_product | INFO | Click btn save
+2022-06-20 16:19:04,969| base_page |test_add_product | INFO | Element (.alert) is present on the page
+2022-06-20 16:19:04,969| product_page |test_add_product | INFO | Product add successfully
+2022-06-20 16:19:04,970| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 16:19:08,222| conftest |test_delete_product | INFO | Start driver chrome
+2022-06-20 16:19:08,224| base_page |test_delete_product | INFO | Open URL: http://localhost//admin
+2022-06-20 16:19:10,065| base_page |test_delete_product | INFO | Element (#input-username) is present on the page
+2022-06-20 16:19:10,065| product_page |test_delete_product | INFO | Enter user name
+2022-06-20 16:19:10,147| base_page |test_delete_product | INFO | Element (#input-password) is present on the page
+2022-06-20 16:19:10,153| product_page |test_delete_product | INFO | Enter user password
+2022-06-20 16:19:10,227| base_page |test_delete_product | INFO | Element (button) is present on the page
+2022-06-20 16:19:11,669| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 16:19:11,677| base_page |test_delete_product | INFO | Element (#menu) is present on the page
+2022-06-20 16:19:11,677| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 16:19:11,685| base_page |test_delete_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-20 16:19:11,685| product_page |test_delete_product | INFO | Click on catalog reference
+2022-06-20 16:19:12,125| base_page |test_delete_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-20 16:19:12,125| product_page |test_delete_product | INFO | Choose product category
+2022-06-20 16:19:12,378| base_page |test_delete_product | INFO | Element (.table.table-bordered tbody input) is present on the page
+2022-06-20 16:19:12,378| product_page |test_delete_product | INFO | Choose product
+2022-06-20 16:19:12,425| base_page |test_delete_product | INFO | Element (.btn-danger) is present on the page
+2022-06-20 16:19:12,425| product_page |test_delete_product | INFO | Delete product
+2022-06-20 16:19:12,458| conftest |test_delete_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 16:23:55,575| conftest |test_add_product | INFO | Start driver chrome
+2022-06-20 16:23:55,579| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-20 16:23:57,238| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-20 16:23:57,238| product_page |test_add_product | INFO | Enter user name
+2022-06-20 16:23:57,321| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-20 16:23:57,327| product_page |test_add_product | INFO | Enter user password
+2022-06-20 16:23:57,401| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-20 16:23:58,387| product_page |test_add_product | INFO | Login successfully
+2022-06-20 16:23:58,399| base_page |test_add_product | INFO | Element (#menu) is present on the page
+2022-06-20 16:23:58,399| product_page |test_add_product | INFO | Login successfully
+2022-06-20 16:23:58,408| base_page |test_add_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-20 16:23:58,408| product_page |test_add_product | INFO | Click catalog reference
+2022-06-20 16:23:58,854| base_page |test_add_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-20 16:23:58,854| product_page |test_add_product | INFO | Choose product category
+2022-06-20 16:23:59,422| base_page |test_add_product | INFO | Element ([data-original-title="Add New"]) is present on the page
+2022-06-20 16:23:59,422| product_page |test_add_product | INFO | Click btn add new product
+2022-06-20 16:24:00,081| base_page |test_add_product | INFO | Element ([href="#tab-general"]) is present on the page
+2022-06-20 16:24:00,081| product_page |test_add_product | INFO | Click general tab
+2022-06-20 16:24:00,120| base_page |test_add_product | INFO | Element (#input-name1) is present on the page
+2022-06-20 16:24:00,120| product_page |test_add_product | INFO | Enter product name
+2022-06-20 16:24:00,200| base_page |test_add_product | INFO | Element (#input-meta-title1) is present on the page
+2022-06-20 16:24:00,200| product_page |test_add_product | INFO | Enter meta teg title
+2022-06-20 16:24:00,284| base_page |test_add_product | INFO | Element ([href="#tab-data"]) is present on the page
+2022-06-20 16:24:00,284| product_page |test_add_product | INFO | Click data tab
+2022-06-20 16:24:00,335| base_page |test_add_product | INFO | Element (#input-model) is present on the page
+2022-06-20 16:24:00,335| product_page |test_add_product | INFO | Enter model
+2022-06-20 16:24:00,420| base_page |test_add_product | INFO | Element (.pull-right .btn.btn-primary) is present on the page
+2022-06-20 16:24:00,420| product_page |test_add_product | INFO | Click btn save
+2022-06-20 16:24:00,803| base_page |test_add_product | INFO | Element (.alert) is present on the page
+2022-06-20 16:24:00,803| product_page |test_add_product | INFO | Product add successfully
+2022-06-20 16:24:00,805| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 16:24:03,999| conftest |test_delete_product | INFO | Start driver chrome
+2022-06-20 16:24:04,001| base_page |test_delete_product | INFO | Open URL: http://localhost//admin
+2022-06-20 16:24:05,534| base_page |test_delete_product | INFO | Element (#input-username) is present on the page
+2022-06-20 16:24:05,534| product_page |test_delete_product | INFO | Enter user name
+2022-06-20 16:24:05,616| base_page |test_delete_product | INFO | Element (#input-password) is present on the page
+2022-06-20 16:24:05,622| product_page |test_delete_product | INFO | Enter user password
+2022-06-20 16:24:05,694| base_page |test_delete_product | INFO | Element (button) is present on the page
+2022-06-20 16:24:07,443| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 16:24:07,479| base_page |test_delete_product | INFO | Element (#menu) is present on the page
+2022-06-20 16:24:07,479| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 16:24:07,486| base_page |test_delete_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-20 16:24:07,486| product_page |test_delete_product | INFO | Click on catalog reference
+2022-06-20 16:24:07,914| base_page |test_delete_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-20 16:24:07,914| product_page |test_delete_product | INFO | Choose product category
+2022-06-20 16:24:08,058| base_page |test_delete_product | INFO | Element (.table.table-bordered tbody input) is present on the page
+2022-06-20 16:24:08,058| product_page |test_delete_product | INFO | Choose product
+2022-06-20 16:24:08,105| base_page |test_delete_product | INFO | Element (.btn-danger) is present on the page
+2022-06-20 16:24:08,105| product_page |test_delete_product | INFO | Delete product
+2022-06-20 16:24:08,137| conftest |test_delete_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 16:49:49,779| conftest |test_add_product | INFO | Start driver chrome
+2022-06-20 16:49:49,805| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-20 16:49:53,823| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-20 16:49:53,823| product_page |test_add_product | INFO | Enter user name
+2022-06-20 16:49:53,918| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-20 16:49:53,923| product_page |test_add_product | INFO | Enter user password
+2022-06-20 16:49:53,994| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-20 16:49:54,733| product_page |test_add_product | INFO | Login successfully
+2022-06-20 16:49:54,742| base_page |test_add_product | INFO | Element (#menu) is present on the page
+2022-06-20 16:49:54,742| product_page |test_add_product | INFO | Login successfully
+2022-06-20 16:49:54,750| base_page |test_add_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-20 16:49:54,750| product_page |test_add_product | INFO | Click catalog reference
+2022-06-20 16:49:55,182| base_page |test_add_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-20 16:49:55,183| product_page |test_add_product | INFO | Choose product category
+2022-06-20 16:49:55,546| base_page |test_add_product | INFO | Element ([data-original-title="Add New"]) is present on the page
+2022-06-20 16:49:55,546| product_page |test_add_product | INFO | Click btn add new product
+2022-06-20 16:49:56,119| base_page |test_add_product | INFO | Element ([href="#tab-general"]) is present on the page
+2022-06-20 16:49:56,119| product_page |test_add_product | INFO | Click general tab
+2022-06-20 16:49:56,156| base_page |test_add_product | INFO | Element (#input-name1) is present on the page
+2022-06-20 16:49:56,156| product_page |test_add_product | INFO | Enter product name
+2022-06-20 16:49:56,236| base_page |test_add_product | INFO | Element (#input-meta-title1) is present on the page
+2022-06-20 16:49:56,236| product_page |test_add_product | INFO | Enter meta teg title
+2022-06-20 16:49:56,324| base_page |test_add_product | INFO | Element ([href="#tab-data"]) is present on the page
+2022-06-20 16:49:56,325| product_page |test_add_product | INFO | Click data tab
+2022-06-20 16:49:56,376| base_page |test_add_product | INFO | Element (#input-model) is present on the page
+2022-06-20 16:49:56,376| product_page |test_add_product | INFO | Enter model
+2022-06-20 16:49:56,455| base_page |test_add_product | INFO | Element (.pull-right .btn.btn-primary) is present on the page
+2022-06-20 16:49:56,455| product_page |test_add_product | INFO | Click btn save
+2022-06-20 16:49:56,851| base_page |test_add_product | INFO | Element (.alert) is present on the page
+2022-06-20 16:49:56,851| product_page |test_add_product | INFO | Product add successfully
+2022-06-20 16:49:56,863| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 16:50:00,225| conftest |test_delete_product | INFO | Start driver chrome
+2022-06-20 16:50:00,227| base_page |test_delete_product | INFO | Open URL: http://localhost//admin
+2022-06-20 16:50:01,776| base_page |test_delete_product | INFO | Element (#input-username) is present on the page
+2022-06-20 16:50:01,777| product_page |test_delete_product | INFO | Enter user name
+2022-06-20 16:50:01,869| base_page |test_delete_product | INFO | Element (#input-password) is present on the page
+2022-06-20 16:50:01,875| product_page |test_delete_product | INFO | Enter user password
+2022-06-20 16:50:01,965| base_page |test_delete_product | INFO | Element (button) is present on the page
+2022-06-20 16:50:02,693| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 16:50:02,734| base_page |test_delete_product | INFO | Element (#menu) is present on the page
+2022-06-20 16:50:02,735| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 16:50:02,743| base_page |test_delete_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-20 16:50:02,743| product_page |test_delete_product | INFO | Click on catalog reference
+2022-06-20 16:50:03,165| base_page |test_delete_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-20 16:50:03,165| product_page |test_delete_product | INFO | Choose product category
+2022-06-20 16:50:03,388| base_page |test_delete_product | INFO | Element (.table.table-bordered tbody input) is present on the page
+2022-06-20 16:50:03,388| product_page |test_delete_product | INFO | Choose product
+2022-06-20 16:50:03,444| base_page |test_delete_product | INFO | Element (.btn-danger) is present on the page
+2022-06-20 16:50:03,445| product_page |test_delete_product | INFO | Delete product
+2022-06-20 16:50:03,494| conftest |test_delete_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 16:53:46,748| conftest |test_add_product | INFO | Start driver chrome
+2022-06-20 16:53:46,751| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-20 16:53:48,429| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-20 16:53:48,429| product_page |test_add_product | INFO | Enter user name
+2022-06-20 16:53:48,512| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-20 16:53:48,518| product_page |test_add_product | INFO | Enter user password
+2022-06-20 16:53:48,591| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-20 16:53:49,328| product_page |test_add_product | INFO | Login successfully
+2022-06-20 16:53:49,371| base_page |test_add_product | INFO | Element (#menu) is present on the page
+2022-06-20 16:53:49,372| product_page |test_add_product | INFO | Login successfully
+2022-06-20 16:53:49,380| base_page |test_add_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-20 16:53:49,380| product_page |test_add_product | INFO | Click catalog reference
+2022-06-20 16:53:49,798| base_page |test_add_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-20 16:53:49,799| product_page |test_add_product | INFO | Choose product category
+2022-06-20 16:53:49,969| base_page |test_add_product | INFO | Element ([data-original-title="Add New"]) is present on the page
+2022-06-20 16:53:49,970| product_page |test_add_product | INFO | Click btn add new product
+2022-06-20 16:53:50,354| base_page |test_add_product | INFO | Element ([href="#tab-general"]) is present on the page
+2022-06-20 16:53:50,354| product_page |test_add_product | INFO | Click general tab
+2022-06-20 16:53:50,391| base_page |test_add_product | INFO | Element (#input-name1) is present on the page
+2022-06-20 16:53:50,391| product_page |test_add_product | INFO | Enter product name
+2022-06-20 16:53:50,469| base_page |test_add_product | INFO | Element (#input-meta-title1) is present on the page
+2022-06-20 16:53:50,470| product_page |test_add_product | INFO | Enter meta teg title
+2022-06-20 16:53:50,549| base_page |test_add_product | INFO | Element ([href="#tab-data"]) is present on the page
+2022-06-20 16:53:50,550| product_page |test_add_product | INFO | Click data tab
+2022-06-20 16:53:50,596| base_page |test_add_product | INFO | Element (#input-model) is present on the page
+2022-06-20 16:53:50,596| product_page |test_add_product | INFO | Enter model
+2022-06-20 16:53:50,673| base_page |test_add_product | INFO | Element (.pull-right .btn.btn-primary) is present on the page
+2022-06-20 16:53:50,674| product_page |test_add_product | INFO | Click btn save
+2022-06-20 16:53:51,149| base_page |test_add_product | INFO | Element (.alert) is present on the page
+2022-06-20 16:53:51,150| product_page |test_add_product | INFO | Product add successfully
+2022-06-20 16:53:51,152| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 16:53:54,512| conftest |test_delete_product | INFO | Start driver chrome
+2022-06-20 16:53:54,514| base_page |test_delete_product | INFO | Open URL: http://localhost//admin
+2022-06-20 16:53:56,202| base_page |test_delete_product | INFO | Element (#input-username) is present on the page
+2022-06-20 16:53:56,202| product_page |test_delete_product | INFO | Enter user name
+2022-06-20 16:53:56,284| base_page |test_delete_product | INFO | Element (#input-password) is present on the page
+2022-06-20 16:53:56,290| product_page |test_delete_product | INFO | Enter user password
+2022-06-20 16:53:56,362| base_page |test_delete_product | INFO | Element (button) is present on the page
+2022-06-20 16:53:58,093| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 16:53:58,102| base_page |test_delete_product | INFO | Element (#menu) is present on the page
+2022-06-20 16:53:58,103| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 16:53:58,111| base_page |test_delete_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-20 16:53:58,111| product_page |test_delete_product | INFO | Click on catalog reference
+2022-06-20 16:53:58,551| base_page |test_delete_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-20 16:53:58,551| product_page |test_delete_product | INFO | Choose product category
+2022-06-20 16:53:58,986| base_page |test_delete_product | INFO | Element (.table.table-bordered tbody input) is present on the page
+2022-06-20 16:53:58,986| product_page |test_delete_product | INFO | Choose product
+2022-06-20 16:53:59,032| base_page |test_delete_product | INFO | Element (.btn-danger) is present on the page
+2022-06-20 16:53:59,032| product_page |test_delete_product | INFO | Delete product
+2022-06-20 16:53:59,066| conftest |test_delete_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 16:57:52,286| conftest |test_add_product | INFO | Start driver chrome
+2022-06-20 16:57:52,288| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-20 16:57:54,042| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-20 16:57:54,043| product_page |test_add_product | INFO | Enter user name
+2022-06-20 16:57:54,128| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-20 16:57:54,134| product_page |test_add_product | INFO | Enter user password
+2022-06-20 16:57:54,214| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-20 16:57:54,974| product_page |test_add_product | INFO | Login successfully
+2022-06-20 16:57:55,013| base_page |test_add_product | INFO | Element (#menu) is present on the page
+2022-06-20 16:57:55,013| product_page |test_add_product | INFO | Login successfully
+2022-06-20 16:57:55,021| base_page |test_add_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-20 16:57:55,021| product_page |test_add_product | INFO | Click catalog reference
+2022-06-20 16:57:55,438| base_page |test_add_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-20 16:57:55,438| product_page |test_add_product | INFO | Choose product category
+2022-06-20 16:57:55,730| base_page |test_add_product | INFO | Element ([data-original-title="Add New"]) is present on the page
+2022-06-20 16:57:55,731| product_page |test_add_product | INFO | Click btn add new product
+2022-06-20 16:57:56,546| base_page |test_add_product | INFO | Element ([href="#tab-general"]) is present on the page
+2022-06-20 16:57:56,546| product_page |test_add_product | INFO | Click general tab
+2022-06-20 16:57:56,582| base_page |test_add_product | INFO | Element (#input-name1) is present on the page
+2022-06-20 16:57:56,583| product_page |test_add_product | INFO | Enter product name
+2022-06-20 16:57:56,664| base_page |test_add_product | INFO | Element (#input-meta-title1) is present on the page
+2022-06-20 16:57:56,665| product_page |test_add_product | INFO | Enter meta teg title
+2022-06-20 16:57:56,747| base_page |test_add_product | INFO | Element ([href="#tab-data"]) is present on the page
+2022-06-20 16:57:56,747| product_page |test_add_product | INFO | Click data tab
+2022-06-20 16:57:56,795| base_page |test_add_product | INFO | Element (#input-model) is present on the page
+2022-06-20 16:57:56,795| product_page |test_add_product | INFO | Enter model
+2022-06-20 16:57:56,874| base_page |test_add_product | INFO | Element (.pull-right .btn.btn-primary) is present on the page
+2022-06-20 16:57:56,874| product_page |test_add_product | INFO | Click btn save
+2022-06-20 16:57:57,191| base_page |test_add_product | INFO | Element (.alert) is present on the page
+2022-06-20 16:57:57,191| product_page |test_add_product | INFO | Product add successfully
+2022-06-20 16:57:57,192| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 16:58:00,381| conftest |test_delete_product | INFO | Start driver chrome
+2022-06-20 16:58:00,383| base_page |test_delete_product | INFO | Open URL: http://localhost//admin
+2022-06-20 16:58:02,624| base_page |test_delete_product | INFO | Element (#input-username) is present on the page
+2022-06-20 16:58:02,624| product_page |test_delete_product | INFO | Enter user name
+2022-06-20 16:58:02,715| base_page |test_delete_product | INFO | Element (#input-password) is present on the page
+2022-06-20 16:58:02,725| product_page |test_delete_product | INFO | Enter user password
+2022-06-20 16:58:02,808| base_page |test_delete_product | INFO | Element (button) is present on the page
+2022-06-20 16:58:04,082| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 16:58:04,091| base_page |test_delete_product | INFO | Element (#menu) is present on the page
+2022-06-20 16:58:04,091| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 16:58:04,098| base_page |test_delete_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-20 16:58:04,099| product_page |test_delete_product | INFO | Click on catalog reference
+2022-06-20 16:58:04,540| base_page |test_delete_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-20 16:58:04,540| product_page |test_delete_product | INFO | Choose product category
+2022-06-20 16:58:04,849| base_page |test_delete_product | INFO | Element (.table.table-bordered tbody input) is present on the page
+2022-06-20 16:58:04,850| product_page |test_delete_product | INFO | Choose product
+2022-06-20 16:58:04,909| base_page |test_delete_product | INFO | Element (.btn-danger) is present on the page
+2022-06-20 16:58:04,909| product_page |test_delete_product | INFO | Delete product
+2022-06-20 16:58:04,956| conftest |test_delete_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 17:00:47,187| conftest |test_add_product | INFO | Start driver chrome
+2022-06-20 17:00:47,190| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-20 17:00:49,838| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-20 17:00:49,838| product_page |test_add_product | INFO | Enter user name
+2022-06-20 17:00:49,921| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-20 17:00:49,926| product_page |test_add_product | INFO | Enter user password
+2022-06-20 17:00:50,026| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-20 17:00:50,750| product_page |test_add_product | INFO | Login successfully
+2022-06-20 17:00:50,762| base_page |test_add_product | INFO | Element (#menu) is present on the page
+2022-06-20 17:00:50,762| product_page |test_add_product | INFO | Login successfully
+2022-06-20 17:00:50,771| base_page |test_add_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-20 17:00:50,771| product_page |test_add_product | INFO | Click catalog reference
+2022-06-20 17:00:51,186| base_page |test_add_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-20 17:00:51,186| product_page |test_add_product | INFO | Choose product category
+2022-06-20 17:00:51,475| base_page |test_add_product | INFO | Element ([data-original-title="Add New"]) is present on the page
+2022-06-20 17:00:51,475| product_page |test_add_product | INFO | Click btn add new product
+2022-06-20 17:00:52,017| base_page |test_add_product | INFO | Element ([href="#tab-general"]) is present on the page
+2022-06-20 17:00:52,018| product_page |test_add_product | INFO | Click general tab
+2022-06-20 17:00:52,058| base_page |test_add_product | INFO | Element (#input-name1) is present on the page
+2022-06-20 17:00:52,059| product_page |test_add_product | INFO | Enter product name
+2022-06-20 17:00:52,147| base_page |test_add_product | INFO | Element (#input-meta-title1) is present on the page
+2022-06-20 17:00:52,148| product_page |test_add_product | INFO | Enter meta teg title
+2022-06-20 17:00:52,239| base_page |test_add_product | INFO | Element ([href="#tab-data"]) is present on the page
+2022-06-20 17:00:52,239| product_page |test_add_product | INFO | Click data tab
+2022-06-20 17:00:52,298| base_page |test_add_product | INFO | Element (#input-model) is present on the page
+2022-06-20 17:00:52,299| product_page |test_add_product | INFO | Enter model
+2022-06-20 17:00:52,399| base_page |test_add_product | INFO | Element (.pull-right .btn.btn-primary) is present on the page
+2022-06-20 17:00:52,399| product_page |test_add_product | INFO | Click btn save
+2022-06-20 17:00:52,827| base_page |test_add_product | INFO | Element (.alert) is present on the page
+2022-06-20 17:00:52,828| product_page |test_add_product | INFO | Product add successfully
+2022-06-20 17:00:52,829| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 17:00:56,566| conftest |test_delete_product | INFO | Start driver chrome
+2022-06-20 17:00:56,568| base_page |test_delete_product | INFO | Open URL: http://localhost//admin
+2022-06-20 17:01:00,013| base_page |test_delete_product | INFO | Element (#input-username) is present on the page
+2022-06-20 17:01:00,013| product_page |test_delete_product | INFO | Enter user name
+2022-06-20 17:01:00,098| base_page |test_delete_product | INFO | Element (#input-password) is present on the page
+2022-06-20 17:01:00,103| product_page |test_delete_product | INFO | Enter user password
+2022-06-20 17:01:00,177| base_page |test_delete_product | INFO | Element (button) is present on the page
+2022-06-20 17:01:00,901| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 17:01:00,946| base_page |test_delete_product | INFO | Element (#menu) is present on the page
+2022-06-20 17:01:00,946| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 17:01:00,954| base_page |test_delete_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-20 17:01:00,954| product_page |test_delete_product | INFO | Click on catalog reference
+2022-06-20 17:01:01,388| base_page |test_delete_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-20 17:01:01,388| product_page |test_delete_product | INFO | Choose product category
+2022-06-20 17:01:02,111| base_page |test_delete_product | INFO | Element (.table.table-bordered tbody input) is present on the page
+2022-06-20 17:01:02,111| product_page |test_delete_product | INFO | Choose product
+2022-06-20 17:01:02,156| base_page |test_delete_product | INFO | Element (.btn-danger) is present on the page
+2022-06-20 17:01:02,156| product_page |test_delete_product | INFO | Delete product
+2022-06-20 17:01:02,187| conftest |test_delete_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 17:01:55,010| conftest |test_add_product | INFO | Start driver chrome
+2022-06-20 17:01:55,015| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-20 17:01:56,306| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-20 17:01:56,306| product_page |test_add_product | INFO | Enter user name
+2022-06-20 17:01:56,388| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-20 17:01:56,393| product_page |test_add_product | INFO | Enter user password
+2022-06-20 17:01:56,463| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-20 17:01:57,012| product_page |test_add_product | INFO | Login successfully
+2022-06-20 17:01:57,022| base_page |test_add_product | INFO | Element (#menu) is present on the page
+2022-06-20 17:01:57,022| product_page |test_add_product | INFO | Login successfully
+2022-06-20 17:01:57,031| base_page |test_add_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-20 17:01:57,031| product_page |test_add_product | INFO | Click catalog reference
+2022-06-20 17:01:57,448| base_page |test_add_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-20 17:01:57,448| product_page |test_add_product | INFO | Choose product category
+2022-06-20 17:01:57,823| base_page |test_add_product | INFO | Element ([data-original-title="Add New"]) is present on the page
+2022-06-20 17:01:57,824| product_page |test_add_product | INFO | Click btn add new product
+2022-06-20 17:01:58,275| base_page |test_add_product | INFO | Element ([href="#tab-general"]) is present on the page
+2022-06-20 17:01:58,275| product_page |test_add_product | INFO | Click general tab
+2022-06-20 17:01:58,311| base_page |test_add_product | INFO | Element (#input-name1) is present on the page
+2022-06-20 17:01:58,312| product_page |test_add_product | INFO | Enter product name
+2022-06-20 17:01:58,391| base_page |test_add_product | INFO | Element (#input-meta-title1) is present on the page
+2022-06-20 17:01:58,392| product_page |test_add_product | INFO | Enter meta teg title
+2022-06-20 17:01:58,472| base_page |test_add_product | INFO | Element ([href="#tab-data"]) is present on the page
+2022-06-20 17:01:58,473| product_page |test_add_product | INFO | Click data tab
+2022-06-20 17:01:58,520| base_page |test_add_product | INFO | Element (#input-model) is present on the page
+2022-06-20 17:01:58,520| product_page |test_add_product | INFO | Enter model
+2022-06-20 17:01:58,599| base_page |test_add_product | INFO | Element (.pull-right .btn.btn-primary) is present on the page
+2022-06-20 17:01:58,599| product_page |test_add_product | INFO | Click btn save
+2022-06-20 17:01:58,954| base_page |test_add_product | INFO | Element (.alert) is present on the page
+2022-06-20 17:01:58,954| product_page |test_add_product | INFO | Product add successfully
+2022-06-20 17:01:58,956| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 17:02:02,212| conftest |test_delete_product | INFO | Start driver chrome
+2022-06-20 17:02:02,214| base_page |test_delete_product | INFO | Open URL: http://localhost//admin
+2022-06-20 17:02:03,913| base_page |test_delete_product | INFO | Element (#input-username) is present on the page
+2022-06-20 17:02:03,913| product_page |test_delete_product | INFO | Enter user name
+2022-06-20 17:02:03,993| base_page |test_delete_product | INFO | Element (#input-password) is present on the page
+2022-06-20 17:02:03,999| product_page |test_delete_product | INFO | Enter user password
+2022-06-20 17:02:04,070| base_page |test_delete_product | INFO | Element (button) is present on the page
+2022-06-20 17:02:04,784| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 17:02:04,793| base_page |test_delete_product | INFO | Element (#menu) is present on the page
+2022-06-20 17:02:04,793| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 17:02:04,803| base_page |test_delete_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-20 17:02:04,803| product_page |test_delete_product | INFO | Click on catalog reference
+2022-06-20 17:02:05,223| base_page |test_delete_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-20 17:02:05,224| product_page |test_delete_product | INFO | Choose product category
+2022-06-20 17:02:05,521| base_page |test_delete_product | INFO | Element (.table.table-bordered tbody input) is present on the page
+2022-06-20 17:02:05,521| product_page |test_delete_product | INFO | Choose product
+2022-06-20 17:02:05,565| base_page |test_delete_product | INFO | Element (.btn-danger) is present on the page
+2022-06-20 17:02:05,565| product_page |test_delete_product | INFO | Delete product
+2022-06-20 17:02:05,597| conftest |test_delete_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 17:12:22,347| conftest |test_add_product | INFO | Start driver chrome
+2022-06-20 17:12:22,349| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-20 17:12:26,867| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-20 17:12:26,867| product_page |test_add_product | INFO | Enter user name
+2022-06-20 17:12:26,948| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-20 17:12:26,954| product_page |test_add_product | INFO | Enter user password
+2022-06-20 17:12:27,026| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-20 17:12:27,985| product_page |test_add_product | INFO | Login successfully
+2022-06-20 17:12:28,004| base_page |test_add_product | INFO | Element (#menu) is present on the page
+2022-06-20 17:12:28,004| product_page |test_add_product | INFO | Login successfully
+2022-06-20 17:12:28,013| base_page |test_add_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-20 17:12:28,013| product_page |test_add_product | INFO | Click catalog reference
+2022-06-20 17:12:28,472| base_page |test_add_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-20 17:12:28,473| product_page |test_add_product | INFO | Choose product category
+2022-06-20 17:12:28,707| base_page |test_add_product | INFO | Element ([data-original-title="Add New"]) is present on the page
+2022-06-20 17:12:28,708| product_page |test_add_product | INFO | Click btn add new product
+2022-06-20 17:12:29,448| base_page |test_add_product | INFO | Element ([href="#tab-general"]) is present on the page
+2022-06-20 17:12:29,448| product_page |test_add_product | INFO | Click general tab
+2022-06-20 17:12:29,484| base_page |test_add_product | INFO | Element (#input-name1) is present on the page
+2022-06-20 17:12:29,484| product_page |test_add_product | INFO | Enter product name
+2022-06-20 17:12:29,566| base_page |test_add_product | INFO | Element (#input-meta-title1) is present on the page
+2022-06-20 17:12:29,566| product_page |test_add_product | INFO | Enter meta teg title
+2022-06-20 17:12:29,647| base_page |test_add_product | INFO | Element ([href="#tab-data"]) is present on the page
+2022-06-20 17:12:29,648| product_page |test_add_product | INFO | Click data tab
+2022-06-20 17:12:29,693| base_page |test_add_product | INFO | Element (#input-model) is present on the page
+2022-06-20 17:12:29,693| product_page |test_add_product | INFO | Enter model
+2022-06-20 17:12:29,772| base_page |test_add_product | INFO | Element (.pull-right .btn.btn-primary) is present on the page
+2022-06-20 17:12:29,772| product_page |test_add_product | INFO | Click btn save
+2022-06-20 17:12:30,224| base_page |test_add_product | INFO | Element (.alert) is present on the page
+2022-06-20 17:12:30,224| product_page |test_add_product | INFO | Product add successfully
+2022-06-20 17:12:30,226| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 17:12:33,444| conftest |test_delete_product | INFO | Start driver chrome
+2022-06-20 17:12:33,445| base_page |test_delete_product | INFO | Open URL: http://localhost//admin
+2022-06-20 17:12:35,107| base_page |test_delete_product | INFO | Element (#input-username) is present on the page
+2022-06-20 17:12:35,107| product_page |test_delete_product | INFO | Enter user name
+2022-06-20 17:12:35,188| base_page |test_delete_product | INFO | Element (#input-password) is present on the page
+2022-06-20 17:12:35,194| product_page |test_delete_product | INFO | Enter user password
+2022-06-20 17:12:35,279| base_page |test_delete_product | INFO | Element (button) is present on the page
+2022-06-20 17:12:36,025| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 17:12:36,034| base_page |test_delete_product | INFO | Element (#menu) is present on the page
+2022-06-20 17:12:36,034| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 17:12:36,042| base_page |test_delete_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-20 17:12:36,042| product_page |test_delete_product | INFO | Click on catalog reference
+2022-06-20 17:12:36,498| base_page |test_delete_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-20 17:12:36,499| product_page |test_delete_product | INFO | Choose product category
+2022-06-20 17:12:36,844| base_page |test_delete_product | INFO | Element (.table.table-bordered tbody input) is present on the page
+2022-06-20 17:12:36,844| product_page |test_delete_product | INFO | Choose product
+2022-06-20 17:12:36,891| base_page |test_delete_product | INFO | Element (.btn-danger) is present on the page
+2022-06-20 17:12:36,891| product_page |test_delete_product | INFO | Delete product
+2022-06-20 17:12:36,923| conftest |test_delete_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 18:14:07,942| conftest |test_add_product | INFO | Start driver chrome
+2022-06-20 18:14:08,000| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-20 18:14:17,795| base_page |test_add_product | ERROR | Element (#input-use) is not found
+2022-06-20 18:14:17,796| product_page |test_add_product | INFO | Enter user name
+2022-06-20 18:14:23,091| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 18:14:26,812| conftest |test_delete_product | INFO | Start driver chrome
+2022-06-20 18:14:26,814| base_page |test_delete_product | INFO | Open URL: http://localhost//admin
+2022-06-20 18:14:34,475| base_page |test_delete_product | ERROR | Element (#input-use) is not found
+2022-06-20 18:14:34,475| product_page |test_delete_product | INFO | Enter user name
+2022-06-20 18:14:39,557| conftest |test_delete_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 18:17:54,792| conftest |test_add_product | INFO | Start driver chrome
+2022-06-20 18:17:54,794| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-20 18:17:57,162| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-20 18:17:57,162| product_page |test_add_product | INFO | Enter user name
+2022-06-20 18:17:57,243| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-20 18:17:57,248| product_page |test_add_product | INFO | Enter user password
+2022-06-20 18:17:57,322| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-20 18:17:58,312| product_page |test_add_product | INFO | Login successfully
+2022-06-20 18:18:03,378| base_page |test_add_product | ERROR | Element (#me) is not found
+2022-06-20 18:18:03,378| product_page |test_add_product | ERROR | You are not login
+2022-06-20 18:18:03,508| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 18:18:06,857| conftest |test_delete_product | INFO | Start driver chrome
+2022-06-20 18:18:06,859| base_page |test_delete_product | INFO | Open URL: http://localhost//admin
+2022-06-20 18:18:08,516| base_page |test_delete_product | INFO | Element (#input-username) is present on the page
+2022-06-20 18:18:08,516| product_page |test_delete_product | INFO | Enter user name
+2022-06-20 18:18:08,599| base_page |test_delete_product | INFO | Element (#input-password) is present on the page
+2022-06-20 18:18:08,605| product_page |test_delete_product | INFO | Enter user password
+2022-06-20 18:18:08,676| base_page |test_delete_product | INFO | Element (button) is present on the page
+2022-06-20 18:18:09,520| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 18:18:14,567| base_page |test_delete_product | ERROR | Element (#me) is not found
+2022-06-20 18:18:14,567| product_page |test_delete_product | ERROR | You are not login
+2022-06-20 18:18:14,574| conftest |test_delete_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 18:36:37,656| conftest |test_add_product | INFO | Start driver chrome
+2022-06-20 18:36:37,671| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-20 18:36:42,108| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-20 18:36:42,108| product_page |test_add_product | INFO | Enter user name
+2022-06-20 18:36:42,190| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-20 18:36:42,196| product_page |test_add_product | INFO | Enter user password
+2022-06-20 18:36:42,268| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-20 18:36:43,212| product_page |test_add_product | INFO | Login successfully
+2022-06-20 18:36:48,271| base_page |test_add_product | ERROR | Element (#me) is not found
+2022-06-20 18:36:48,272| product_page |test_add_product | INFO | Login successfully
+2022-06-20 18:36:48,282| base_page |test_add_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-20 18:36:48,283| product_page |test_add_product | INFO | Click catalog reference
+2022-06-20 18:36:48,699| base_page |test_add_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-20 18:36:48,700| product_page |test_add_product | INFO | Choose product category
+2022-06-20 18:36:49,059| base_page |test_add_product | INFO | Element ([data-original-title="Add New"]) is present on the page
+2022-06-20 18:36:49,059| product_page |test_add_product | INFO | Click btn add new product
+2022-06-20 18:36:50,353| base_page |test_add_product | INFO | Element ([href="#tab-general"]) is present on the page
+2022-06-20 18:36:50,353| product_page |test_add_product | INFO | Click general tab
+2022-06-20 18:36:50,390| base_page |test_add_product | INFO | Element (#input-name1) is present on the page
+2022-06-20 18:36:50,390| product_page |test_add_product | INFO | Enter product name
+2022-06-20 18:36:50,469| base_page |test_add_product | INFO | Element (#input-meta-title1) is present on the page
+2022-06-20 18:36:50,469| product_page |test_add_product | INFO | Enter meta teg title
+2022-06-20 18:36:50,549| base_page |test_add_product | INFO | Element ([href="#tab-data"]) is present on the page
+2022-06-20 18:36:50,549| product_page |test_add_product | INFO | Click data tab
+2022-06-20 18:36:50,597| base_page |test_add_product | INFO | Element (#input-model) is present on the page
+2022-06-20 18:36:50,597| product_page |test_add_product | INFO | Enter model
+2022-06-20 18:36:50,680| base_page |test_add_product | INFO | Element (.pull-right .btn.btn-primary) is present on the page
+2022-06-20 18:36:50,681| product_page |test_add_product | INFO | Click btn save
+2022-06-20 18:36:51,055| base_page |test_add_product | INFO | Element (.alert) is present on the page
+2022-06-20 18:36:51,055| product_page |test_add_product | INFO | Product add successfully
+2022-06-20 18:36:51,057| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 18:36:55,131| conftest |test_delete_product | INFO | Start driver chrome
+2022-06-20 18:36:55,132| base_page |test_delete_product | INFO | Open URL: http://localhost//admin
+2022-06-20 18:36:57,363| base_page |test_delete_product | INFO | Element (#input-username) is present on the page
+2022-06-20 18:36:57,363| product_page |test_delete_product | INFO | Enter user name
+2022-06-20 18:36:57,446| base_page |test_delete_product | INFO | Element (#input-password) is present on the page
+2022-06-20 18:36:57,452| product_page |test_delete_product | INFO | Enter user password
+2022-06-20 18:36:57,522| base_page |test_delete_product | INFO | Element (button) is present on the page
+2022-06-20 18:36:59,446| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 18:37:04,500| base_page |test_delete_product | ERROR | Element (#me) is not found
+2022-06-20 18:37:04,500| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 18:37:04,509| base_page |test_delete_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-20 18:37:04,509| product_page |test_delete_product | INFO | Click on catalog reference
+2022-06-20 18:37:04,925| base_page |test_delete_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-20 18:37:04,925| product_page |test_delete_product | INFO | Choose product category
+2022-06-20 18:37:05,446| base_page |test_delete_product | INFO | Element (.table.table-bordered tbody input) is present on the page
+2022-06-20 18:37:05,446| product_page |test_delete_product | INFO | Choose product
+2022-06-20 18:37:05,496| base_page |test_delete_product | INFO | Element (.btn-danger) is present on the page
+2022-06-20 18:37:05,496| product_page |test_delete_product | INFO | Delete product
+2022-06-20 18:37:05,530| conftest |test_delete_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 18:37:53,468| conftest |test_add_product | INFO | Start driver chrome
+2022-06-20 18:37:53,470| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-20 18:37:55,223| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-20 18:37:55,224| product_page |test_add_product | INFO | Enter user name
+2022-06-20 18:37:55,308| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-20 18:37:55,313| product_page |test_add_product | INFO | Enter user password
+2022-06-20 18:37:55,383| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-20 18:37:56,325| product_page |test_add_product | INFO | Login successfully
+2022-06-20 18:38:01,376| base_page |test_add_product | ERROR | Element (#unem) is not found
+2022-06-20 18:38:01,376| product_page |test_add_product | INFO | Login successfully
+2022-06-20 18:38:01,384| base_page |test_add_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-20 18:38:01,385| product_page |test_add_product | INFO | Click catalog reference
+2022-06-20 18:38:01,797| base_page |test_add_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-20 18:38:01,797| product_page |test_add_product | INFO | Choose product category
+2022-06-20 18:38:02,041| base_page |test_add_product | INFO | Element ([data-original-title="Add New"]) is present on the page
+2022-06-20 18:38:02,041| product_page |test_add_product | INFO | Click btn add new product
+2022-06-20 18:38:03,286| base_page |test_add_product | INFO | Element ([href="#tab-general"]) is present on the page
+2022-06-20 18:38:03,287| product_page |test_add_product | INFO | Click general tab
+2022-06-20 18:38:03,324| base_page |test_add_product | INFO | Element (#input-name1) is present on the page
+2022-06-20 18:38:03,324| product_page |test_add_product | INFO | Enter product name
+2022-06-20 18:38:03,401| base_page |test_add_product | INFO | Element (#input-meta-title1) is present on the page
+2022-06-20 18:38:03,401| product_page |test_add_product | INFO | Enter meta teg title
+2022-06-20 18:38:03,482| base_page |test_add_product | INFO | Element ([href="#tab-data"]) is present on the page
+2022-06-20 18:38:03,482| product_page |test_add_product | INFO | Click data tab
+2022-06-20 18:38:03,529| base_page |test_add_product | INFO | Element (#input-model) is present on the page
+2022-06-20 18:38:03,529| product_page |test_add_product | INFO | Enter model
+2022-06-20 18:38:03,609| base_page |test_add_product | INFO | Element (.pull-right .btn.btn-primary) is present on the page
+2022-06-20 18:38:03,609| product_page |test_add_product | INFO | Click btn save
+2022-06-20 18:38:04,066| base_page |test_add_product | INFO | Element (.alert) is present on the page
+2022-06-20 18:38:04,066| product_page |test_add_product | INFO | Product add successfully
+2022-06-20 18:38:04,067| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 18:38:07,414| conftest |test_delete_product | INFO | Start driver chrome
+2022-06-20 18:38:07,417| base_page |test_delete_product | INFO | Open URL: http://localhost//admin
+2022-06-20 18:38:09,503| base_page |test_delete_product | INFO | Element (#input-username) is present on the page
+2022-06-20 18:38:09,503| product_page |test_delete_product | INFO | Enter user name
+2022-06-20 18:38:09,584| base_page |test_delete_product | INFO | Element (#input-password) is present on the page
+2022-06-20 18:38:09,589| product_page |test_delete_product | INFO | Enter user password
+2022-06-20 18:38:09,662| base_page |test_delete_product | INFO | Element (button) is present on the page
+2022-06-20 18:38:11,319| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 18:38:16,374| base_page |test_delete_product | ERROR | Element (#unem) is not found
+2022-06-20 18:38:16,375| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 18:38:16,389| base_page |test_delete_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-20 18:38:16,389| product_page |test_delete_product | INFO | Click on catalog reference
+2022-06-20 18:38:16,794| base_page |test_delete_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-20 18:38:16,794| product_page |test_delete_product | INFO | Choose product category
+2022-06-20 18:38:17,015| base_page |test_delete_product | INFO | Element (.table.table-bordered tbody input) is present on the page
+2022-06-20 18:38:17,015| product_page |test_delete_product | INFO | Choose product
+2022-06-20 18:38:17,061| base_page |test_delete_product | INFO | Element (.btn-danger) is present on the page
+2022-06-20 18:38:17,062| product_page |test_delete_product | INFO | Delete product
+2022-06-20 18:38:17,095| conftest |test_delete_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 18:40:07,795| conftest |test_add_product | INFO | Start driver chrome
+2022-06-20 18:40:07,798| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-20 18:40:09,669| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-20 18:40:09,670| product_page |test_add_product | INFO | Enter user name
+2022-06-20 18:40:09,756| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-20 18:40:09,762| product_page |test_add_product | INFO | Enter user password
+2022-06-20 18:40:09,832| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-20 18:40:11,430| product_page |test_add_product | INFO | Login successfully
+2022-06-20 18:40:16,469| base_page |test_add_product | ERROR | Element (#unem) is not found
+2022-06-20 18:40:16,685| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 18:40:19,873| conftest |test_delete_product | INFO | Start driver chrome
+2022-06-20 18:40:19,876| base_page |test_delete_product | INFO | Open URL: http://localhost//admin
+2022-06-20 18:40:21,478| base_page |test_delete_product | INFO | Element (#input-username) is present on the page
+2022-06-20 18:40:21,479| product_page |test_delete_product | INFO | Enter user name
+2022-06-20 18:40:21,562| base_page |test_delete_product | INFO | Element (#input-password) is present on the page
+2022-06-20 18:40:21,567| product_page |test_delete_product | INFO | Enter user password
+2022-06-20 18:40:21,639| base_page |test_delete_product | INFO | Element (button) is present on the page
+2022-06-20 18:40:23,295| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 18:40:28,350| base_page |test_delete_product | ERROR | Element (#unem) is not found
+2022-06-20 18:40:28,364| conftest |test_delete_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 18:43:18,038| conftest |test_add_product | INFO | Start driver chrome
+2022-06-20 18:43:18,040| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-20 18:43:19,719| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-20 18:43:19,719| product_page |test_add_product | INFO | Enter user name
+2022-06-20 18:43:19,803| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-20 18:43:19,808| product_page |test_add_product | INFO | Enter user password
+2022-06-20 18:43:19,883| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-20 18:43:20,745| product_page |test_add_product | INFO | Login successfully
+2022-06-20 18:43:26,029| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 18:43:29,393| conftest |test_delete_product | INFO | Start driver chrome
+2022-06-20 18:43:29,395| base_page |test_delete_product | INFO | Open URL: http://localhost//admin
+2022-06-20 18:43:30,931| base_page |test_delete_product | INFO | Element (#input-username) is present on the page
+2022-06-20 18:43:30,931| product_page |test_delete_product | INFO | Enter user name
+2022-06-20 18:43:31,013| base_page |test_delete_product | INFO | Element (#input-password) is present on the page
+2022-06-20 18:43:31,019| product_page |test_delete_product | INFO | Enter user password
+2022-06-20 18:43:31,093| base_page |test_delete_product | INFO | Element (button) is present on the page
+2022-06-20 18:43:32,043| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 18:43:37,148| conftest |test_delete_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 18:45:07,008| conftest |test_add_product | INFO | Start driver chrome
+2022-06-20 18:45:07,011| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-20 18:45:08,669| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-20 18:45:08,669| product_page |test_add_product | INFO | Enter user name
+2022-06-20 18:45:08,751| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-20 18:45:08,756| product_page |test_add_product | INFO | Enter user password
+2022-06-20 18:45:08,828| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-20 18:45:10,646| product_page |test_add_product | INFO | Login successfully
+2022-06-20 18:45:15,830| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 18:45:18,987| conftest |test_delete_product | INFO | Start driver chrome
+2022-06-20 18:45:18,989| base_page |test_delete_product | INFO | Open URL: http://localhost//admin
+2022-06-20 18:45:20,762| base_page |test_delete_product | INFO | Element (#input-username) is present on the page
+2022-06-20 18:45:20,762| product_page |test_delete_product | INFO | Enter user name
+2022-06-20 18:45:20,843| base_page |test_delete_product | INFO | Element (#input-password) is present on the page
+2022-06-20 18:45:20,848| product_page |test_delete_product | INFO | Enter user password
+2022-06-20 18:45:20,920| base_page |test_delete_product | INFO | Element (button) is present on the page
+2022-06-20 18:45:21,470| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 18:45:26,574| conftest |test_delete_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 18:45:45,011| conftest |test_add_product | INFO | Start driver chrome
+2022-06-20 18:45:45,014| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-20 18:45:46,607| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-20 18:45:46,607| product_page |test_add_product | INFO | Enter user name
+2022-06-20 18:45:46,688| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-20 18:45:46,692| product_page |test_add_product | INFO | Enter user password
+2022-06-20 18:45:46,763| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-20 18:45:48,625| product_page |test_add_product | INFO | Login successfully
+2022-06-20 18:45:53,888| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 18:45:57,100| conftest |test_delete_product | INFO | Start driver chrome
+2022-06-20 18:45:57,101| base_page |test_delete_product | INFO | Open URL: http://localhost//admin
+2022-06-20 18:45:58,828| base_page |test_delete_product | INFO | Element (#input-username) is present on the page
+2022-06-20 18:45:58,828| product_page |test_delete_product | INFO | Enter user name
+2022-06-20 18:45:58,911| base_page |test_delete_product | INFO | Element (#input-password) is present on the page
+2022-06-20 18:45:58,917| product_page |test_delete_product | INFO | Enter user password
+2022-06-20 18:45:58,989| base_page |test_delete_product | INFO | Element (button) is present on the page
+2022-06-20 18:45:59,733| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 18:46:04,845| conftest |test_delete_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 18:46:45,445| conftest |test_add_product | INFO | Start driver chrome
+2022-06-20 18:46:45,448| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-20 18:46:47,129| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-20 18:46:47,129| product_page |test_add_product | INFO | Enter user name
+2022-06-20 18:46:47,210| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-20 18:46:47,215| product_page |test_add_product | INFO | Enter user password
+2022-06-20 18:46:47,285| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-20 18:46:47,838| product_page |test_add_product | INFO | Login successfully
+2022-06-20 18:46:52,942| product_page |test_add_product | ERROR | You are not login
+2022-06-20 18:46:53,111| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 18:46:56,322| conftest |test_delete_product | INFO | Start driver chrome
+2022-06-20 18:46:56,326| base_page |test_delete_product | INFO | Open URL: http://localhost//admin
+2022-06-20 18:46:57,811| base_page |test_delete_product | INFO | Element (#input-username) is present on the page
+2022-06-20 18:46:57,811| product_page |test_delete_product | INFO | Enter user name
+2022-06-20 18:46:57,892| base_page |test_delete_product | INFO | Element (#input-password) is present on the page
+2022-06-20 18:46:57,898| product_page |test_delete_product | INFO | Enter user password
+2022-06-20 18:46:57,970| base_page |test_delete_product | INFO | Element (button) is present on the page
+2022-06-20 18:46:58,725| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 18:47:03,810| product_page |test_delete_product | ERROR | You are not login
+2022-06-20 18:47:03,849| conftest |test_delete_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 18:49:39,729| conftest |test_add_product | INFO | Start driver chrome
+2022-06-20 18:49:39,734| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-20 18:49:41,721| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-20 18:49:41,721| product_page |test_add_product | INFO | Enter user name
+2022-06-20 18:49:41,807| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-20 18:49:41,813| product_page |test_add_product | INFO | Enter user password
+2022-06-20 18:49:41,884| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-20 18:49:42,662| product_page |test_add_product | INFO | Login successfully
+2022-06-20 18:49:42,671| product_page |test_add_product | INFO | Login successfully
+2022-06-20 18:49:42,679| base_page |test_add_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-20 18:49:42,679| product_page |test_add_product | INFO | Click catalog reference
+2022-06-20 18:49:43,103| base_page |test_add_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-20 18:49:43,104| product_page |test_add_product | INFO | Choose product category
+2022-06-20 18:49:43,369| base_page |test_add_product | INFO | Element ([data-original-title="Add New"]) is present on the page
+2022-06-20 18:49:43,369| product_page |test_add_product | INFO | Click btn add new product
+2022-06-20 18:49:43,695| base_page |test_add_product | INFO | Element ([href="#tab-general"]) is present on the page
+2022-06-20 18:49:43,695| product_page |test_add_product | INFO | Click general tab
+2022-06-20 18:49:43,734| base_page |test_add_product | INFO | Element (#input-name1) is present on the page
+2022-06-20 18:49:43,735| product_page |test_add_product | INFO | Enter product name
+2022-06-20 18:49:43,827| base_page |test_add_product | INFO | Element (#input-meta-title1) is present on the page
+2022-06-20 18:49:43,827| product_page |test_add_product | INFO | Enter meta teg title
+2022-06-20 18:49:43,905| base_page |test_add_product | INFO | Element ([href="#tab-data"]) is present on the page
+2022-06-20 18:49:43,905| product_page |test_add_product | INFO | Click data tab
+2022-06-20 18:49:43,951| base_page |test_add_product | INFO | Element (#input-model) is present on the page
+2022-06-20 18:49:43,951| product_page |test_add_product | INFO | Enter model
+2022-06-20 18:49:44,027| base_page |test_add_product | INFO | Element (.pull-right .btn.btn-primary) is present on the page
+2022-06-20 18:49:44,027| product_page |test_add_product | INFO | Click btn save
+2022-06-20 18:49:44,466| base_page |test_add_product | INFO | Element (.alert) is present on the page
+2022-06-20 18:49:44,467| product_page |test_add_product | INFO | Product add successfully
+2022-06-20 18:49:44,468| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 18:49:47,562| conftest |test_delete_product | INFO | Start driver chrome
+2022-06-20 18:49:47,565| base_page |test_delete_product | INFO | Open URL: http://localhost//admin
+2022-06-20 18:49:48,877| base_page |test_delete_product | INFO | Element (#input-username) is present on the page
+2022-06-20 18:49:48,877| product_page |test_delete_product | INFO | Enter user name
+2022-06-20 18:49:48,957| base_page |test_delete_product | INFO | Element (#input-password) is present on the page
+2022-06-20 18:49:48,963| product_page |test_delete_product | INFO | Enter user password
+2022-06-20 18:49:49,034| base_page |test_delete_product | INFO | Element (button) is present on the page
+2022-06-20 18:49:49,724| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 18:49:49,763| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 18:49:49,771| base_page |test_delete_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-20 18:49:49,771| product_page |test_delete_product | INFO | Click on catalog reference
+2022-06-20 18:49:50,190| base_page |test_delete_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-20 18:49:50,190| product_page |test_delete_product | INFO | Choose product category
+2022-06-20 18:50:03,974| conftest |test_add_product | INFO | Start driver chrome
+2022-06-20 18:50:03,977| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-20 18:50:05,597| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-20 18:50:05,597| product_page |test_add_product | INFO | Enter user name
+2022-06-20 18:50:05,679| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-20 18:50:05,685| product_page |test_add_product | INFO | Enter user password
+2022-06-20 18:50:05,761| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-20 18:50:06,828| product_page |test_add_product | INFO | Login successfully
+2022-06-20 18:50:11,923| product_page |test_add_product | ERROR | You are not login
+2022-06-20 18:50:12,099| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 18:50:15,329| conftest |test_delete_product | INFO | Start driver chrome
+2022-06-20 18:50:15,331| base_page |test_delete_product | INFO | Open URL: http://localhost//admin
+2022-06-20 18:50:16,742| base_page |test_delete_product | INFO | Element (#input-username) is present on the page
+2022-06-20 18:50:16,742| product_page |test_delete_product | INFO | Enter user name
+2022-06-20 18:50:16,822| base_page |test_delete_product | INFO | Element (#input-password) is present on the page
+2022-06-20 18:50:16,827| product_page |test_delete_product | INFO | Enter user password
+2022-06-20 18:50:16,898| base_page |test_delete_product | INFO | Element (button) is present on the page
+2022-06-20 18:50:18,566| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 18:50:23,684| product_page |test_delete_product | ERROR | You are not login
+2022-06-20 18:50:23,734| conftest |test_delete_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 18:54:31,153| conftest |test_add_product | INFO | Start driver chrome
+2022-06-20 18:54:31,158| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-20 18:54:33,222| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-20 18:54:33,222| product_page |test_add_product | INFO | Enter user name
+2022-06-20 18:54:33,305| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-20 18:54:33,311| product_page |test_add_product | INFO | Enter user password
+2022-06-20 18:54:33,384| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-20 18:54:33,905| product_page |test_add_product | INFO | Login successfully
+2022-06-20 18:54:39,011| product_page |test_add_product | ERROR | You are not login
+2022-06-20 18:54:39,180| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-20 18:54:42,347| conftest |test_delete_product | INFO | Start driver chrome
+2022-06-20 18:54:42,348| base_page |test_delete_product | INFO | Open URL: http://localhost//admin
+2022-06-20 18:54:44,579| base_page |test_delete_product | INFO | Element (#input-username) is present on the page
+2022-06-20 18:54:44,579| product_page |test_delete_product | INFO | Enter user name
+2022-06-20 18:54:44,662| base_page |test_delete_product | INFO | Element (#input-password) is present on the page
+2022-06-20 18:54:44,667| product_page |test_delete_product | INFO | Enter user password
+2022-06-20 18:54:44,739| base_page |test_delete_product | INFO | Element (button) is present on the page
+2022-06-20 18:54:45,588| product_page |test_delete_product | INFO | Login successfully
+2022-06-20 18:54:50,691| product_page |test_delete_product | ERROR | You are not login
+2022-06-20 18:54:50,734| conftest |test_delete_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 11:10:56,502| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 11:10:56,537| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 11:11:01,162| base_page |test_add_product | INFO | URL http://localhost//admin is not found
+2022-06-21 11:11:01,376| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 11:11:04,602| conftest |test_delete_product | INFO | Start driver chrome
+2022-06-21 11:11:04,604| base_page |test_delete_product | INFO | Open URL: http://localhost//admin
+2022-06-21 11:11:09,101| base_page |test_delete_product | INFO | URL http://localhost//admin is not found
+2022-06-21 11:11:09,133| conftest |test_delete_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 11:22:43,689| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 11:22:43,693| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 11:22:48,417| base_page |test_add_product | INFO | URL http://localhost//admin is not found
+2022-06-21 11:22:48,581| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 11:32:03,005| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 11:32:03,078| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 11:32:10,877| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 11:32:10,877| product_page |test_add_product | INFO | Enter user name
+2022-06-21 11:32:10,959| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 11:32:10,964| product_page |test_add_product | INFO | Enter user password
+2022-06-21 11:32:11,037| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 11:32:12,535| product_page |test_add_product | INFO | Login successfully
+2022-06-21 11:32:17,664| product_page |test_add_product | ERROR | You are not login
+2022-06-21 11:32:17,887| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 11:34:57,375| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 11:34:57,392| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 11:35:00,182| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 11:35:00,182| product_page |test_add_product | INFO | Enter user name
+2022-06-21 11:35:00,264| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 11:35:00,269| product_page |test_add_product | INFO | Enter user password
+2022-06-21 11:35:00,343| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 11:35:00,913| product_page |test_add_product | INFO | Login successfully
+2022-06-21 11:35:06,592| product_page |test_add_product | ERROR | You are not login
+2022-06-21 11:35:07,512| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 11:38:43,136| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 11:38:43,159| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 11:38:46,009| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 11:38:46,009| product_page |test_add_product | INFO | Enter user name
+2022-06-21 11:38:46,091| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 11:38:46,097| product_page |test_add_product | INFO | Enter user password
+2022-06-21 11:38:46,169| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 11:38:47,271| product_page |test_add_product | INFO | Login successfully
+2022-06-21 11:38:52,349| product_page |test_add_product | ERROR | You are not login
+2022-06-21 11:38:52,512| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 11:39:11,674| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 11:39:11,677| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 11:39:13,903| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 11:39:13,903| product_page |test_add_product | INFO | Enter user name
+2022-06-21 11:39:13,985| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 11:39:13,990| product_page |test_add_product | INFO | Enter user password
+2022-06-21 11:39:14,062| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 11:39:15,476| product_page |test_add_product | INFO | Login successfully
+2022-06-21 11:39:20,559| product_page |test_add_product | ERROR | You are not login
+2022-06-21 11:39:20,713| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 11:40:24,995| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 11:40:24,998| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 11:40:26,450| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 11:40:26,450| product_page |test_add_product | INFO | Enter user name
+2022-06-21 11:40:26,535| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 11:40:26,540| product_page |test_add_product | INFO | Enter user password
+2022-06-21 11:40:26,613| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 11:40:27,295| product_page |test_add_product | INFO | Login successfully
+2022-06-21 11:40:32,363| product_page |test_add_product | ERROR | You are not login
+2022-06-21 11:40:32,532| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 11:51:40,125| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 11:51:40,128| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 11:51:43,900| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 11:51:43,900| product_page |test_add_product | INFO | Enter user name
+2022-06-21 11:51:43,983| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 11:51:43,989| product_page |test_add_product | INFO | Enter user password
+2022-06-21 11:51:44,062| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 11:51:44,534| product_page |test_add_product | INFO | Login successfully
+2022-06-21 11:51:49,753| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 11:52:26,869| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 11:52:26,874| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 11:52:28,311| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 11:52:28,311| product_page |test_add_product | INFO | Enter user name
+2022-06-21 11:52:28,397| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 11:52:28,403| product_page |test_add_product | INFO | Enter user password
+2022-06-21 11:52:28,478| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 11:52:28,988| product_page |test_add_product | INFO | Login successfully
+2022-06-21 11:52:35,816| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 11:52:35,821| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 11:52:37,678| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 11:52:37,678| product_page |test_add_product | INFO | Enter user name
+2022-06-21 11:52:37,763| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 11:52:37,769| product_page |test_add_product | INFO | Enter user password
+2022-06-21 11:52:37,842| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 11:52:38,740| product_page |test_add_product | INFO | Login successfully
+2022-06-21 11:52:44,175| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 11:53:05,098| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 11:53:05,100| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 11:53:06,611| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 11:53:06,611| product_page |test_add_product | INFO | Enter user name
+2022-06-21 11:53:06,691| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 11:53:06,696| product_page |test_add_product | INFO | Enter user password
+2022-06-21 11:53:06,768| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 11:53:07,452| product_page |test_add_product | INFO | Login successfully
+2022-06-21 11:53:12,669| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 11:55:58,535| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 11:55:58,539| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 11:56:00,038| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 11:56:00,038| product_page |test_add_product | INFO | Enter user name
+2022-06-21 11:56:00,120| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 11:56:00,125| product_page |test_add_product | INFO | Enter user password
+2022-06-21 11:56:00,196| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 11:56:01,075| product_page |test_add_product | INFO | Login successfully
+2022-06-21 11:56:01,083| product_page |test_add_product | INFO | Login successfully
+2022-06-21 11:56:06,352| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 11:56:59,332| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 11:56:59,337| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 11:57:00,926| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 11:57:00,926| product_page |test_add_product | INFO | Enter user name
+2022-06-21 11:57:01,009| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 11:57:01,014| product_page |test_add_product | INFO | Enter user password
+2022-06-21 11:57:01,087| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 11:57:01,587| product_page |test_add_product | INFO | Login successfully
+2022-06-21 11:57:01,596| product_page |test_add_product | INFO | Login successfully
+2022-06-21 11:57:06,661| base_page |test_add_product | ERROR | Element (#menu-catalog [data-toggle="coooooo"]) is not found
+2022-06-21 11:57:06,850| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 11:59:23,961| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 11:59:23,964| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 11:59:25,422| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 11:59:25,422| product_page |test_add_product | INFO | Enter user name
+2022-06-21 11:59:25,503| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 11:59:25,509| product_page |test_add_product | INFO | Enter user password
+2022-06-21 11:59:25,582| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 11:59:26,523| product_page |test_add_product | INFO | Login successfully
+2022-06-21 11:59:26,531| base_page |test_add_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-21 11:59:26,531| product_page |test_add_product | INFO | Click catalog reference
+2022-06-21 11:59:26,949| base_page |test_add_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-21 11:59:26,949| product_page |test_add_product | INFO | Choose product category
+2022-06-21 11:59:27,525| base_page |test_add_product | INFO | Element ([data-original-title="Add New"]) is present on the page
+2022-06-21 11:59:27,526| product_page |test_add_product | INFO | Click btn add new product
+2022-06-21 11:59:28,645| base_page |test_add_product | INFO | Element ([href="#tab-general"]) is present on the page
+2022-06-21 11:59:28,645| product_page |test_add_product | INFO | Click general tab
+2022-06-21 11:59:28,681| base_page |test_add_product | INFO | Element (#input-name1) is present on the page
+2022-06-21 11:59:28,681| product_page |test_add_product | INFO | Enter product name
+2022-06-21 11:59:28,762| base_page |test_add_product | INFO | Element (#input-meta-title1) is present on the page
+2022-06-21 11:59:28,762| product_page |test_add_product | INFO | Enter meta teg title
+2022-06-21 11:59:28,843| base_page |test_add_product | INFO | Element ([href="#tab-data"]) is present on the page
+2022-06-21 11:59:28,843| product_page |test_add_product | INFO | Click data tab
+2022-06-21 11:59:28,889| base_page |test_add_product | INFO | Element (#input-model) is present on the page
+2022-06-21 11:59:28,889| product_page |test_add_product | INFO | Enter model
+2022-06-21 11:59:28,967| base_page |test_add_product | INFO | Element (.pull-right .btn.btn-primary) is present on the page
+2022-06-21 11:59:28,967| product_page |test_add_product | INFO | Click btn save
+2022-06-21 11:59:29,329| base_page |test_add_product | INFO | Element (.alert) is present on the page
+2022-06-21 11:59:29,329| product_page |test_add_product | INFO | Product add successfully
+2022-06-21 11:59:29,331| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 12:01:04,988| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 12:01:04,990| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 12:01:06,440| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 12:01:06,440| product_page |test_add_product | INFO | Enter user name
+2022-06-21 12:01:06,518| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 12:01:06,523| product_page |test_add_product | INFO | Enter user password
+2022-06-21 12:01:06,595| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 12:01:12,689| product_page |test_add_product | ERROR | You are not login
+2022-06-21 12:01:12,845| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 12:06:31,603| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 12:06:31,608| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 12:06:33,935| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 12:06:33,935| product_page |test_add_product | INFO | Enter user name
+2022-06-21 12:06:34,016| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 12:06:34,021| product_page |test_add_product | INFO | Enter user password
+2022-06-21 12:06:34,093| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 12:06:35,041| product_page |test_add_product | INFO | Login successfully
+2022-06-21 12:06:35,050| base_page |test_add_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-21 12:06:35,050| product_page |test_add_product | INFO | Click catalog reference
+2022-06-21 12:06:35,479| base_page |test_add_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-21 12:06:35,480| product_page |test_add_product | INFO | Choose product category
+2022-06-21 12:06:35,638| base_page |test_add_product | INFO | Element ([data-original-title="Add New"]) is present on the page
+2022-06-21 12:06:35,638| product_page |test_add_product | INFO | Click btn add new product
+2022-06-21 12:06:36,342| base_page |test_add_product | INFO | Element ([href="#tab-general"]) is present on the page
+2022-06-21 12:06:36,342| product_page |test_add_product | INFO | Click general tab
+2022-06-21 12:06:36,380| base_page |test_add_product | INFO | Element (#input-name1) is present on the page
+2022-06-21 12:06:36,380| product_page |test_add_product | INFO | Enter product name
+2022-06-21 12:06:36,459| base_page |test_add_product | INFO | Element (#input-meta-title1) is present on the page
+2022-06-21 12:06:36,459| product_page |test_add_product | INFO | Enter meta teg title
+2022-06-21 12:06:36,539| base_page |test_add_product | INFO | Element ([href="#tab-data"]) is present on the page
+2022-06-21 12:06:36,539| product_page |test_add_product | INFO | Click data tab
+2022-06-21 12:06:36,586| base_page |test_add_product | INFO | Element (#input-model) is present on the page
+2022-06-21 12:06:36,586| product_page |test_add_product | INFO | Enter model
+2022-06-21 12:06:36,665| base_page |test_add_product | INFO | Element (.pull-right .btn.btn-primary) is present on the page
+2022-06-21 12:06:36,665| product_page |test_add_product | INFO | Click btn save
+2022-06-21 12:06:36,979| base_page |test_add_product | INFO | Element (.alert) is present on the page
+2022-06-21 12:06:36,979| product_page |test_add_product | INFO | Product add successfully
+2022-06-21 12:06:36,980| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 12:06:50,871| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 12:06:50,873| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 12:06:52,520| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 12:06:52,521| product_page |test_add_product | INFO | Enter user name
+2022-06-21 12:06:52,601| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 12:06:52,606| product_page |test_add_product | INFO | Enter user password
+2022-06-21 12:06:52,679| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 12:06:53,437| product_page |test_add_product | INFO | Login successfully
+2022-06-21 12:06:58,479| base_page |test_add_product | ERROR | Element (#menu-catalog [data-toggle="coooooo"]) is not found
+2022-06-21 12:06:58,646| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 12:09:53,815| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 12:09:53,817| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 12:09:55,314| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 12:09:55,314| product_page |test_add_product | INFO | Enter user name
+2022-06-21 12:09:55,396| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 12:09:55,402| product_page |test_add_product | INFO | Enter user password
+2022-06-21 12:09:55,475| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 12:09:57,031| product_page |test_add_product | INFO | Login successfully
+2022-06-21 12:10:02,043| base_page |test_add_product | ERROR | Element (#menu-catalog [data-toggle="coooooo"]) is not found
+2022-06-21 12:10:07,057| base_page |test_add_product | ERROR | Element (.alert) is not found
+2022-06-21 12:10:07,258| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 12:12:20,773| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 12:12:20,776| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 12:12:22,503| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 12:12:22,503| product_page |test_add_product | INFO | Enter user name
+2022-06-21 12:12:22,584| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 12:12:22,590| product_page |test_add_product | INFO | Enter user password
+2022-06-21 12:12:22,661| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 12:12:24,557| product_page |test_add_product | INFO | Login successfully
+2022-06-21 12:12:29,570| base_page |test_add_product | ERROR | Element (#menu-catalog [data-toggle="coooooo"]) is not found
+2022-06-21 12:12:29,574| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 12:13:16,228| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 12:13:16,231| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 12:13:17,717| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 12:13:17,717| product_page |test_add_product | INFO | Enter user name
+2022-06-21 12:13:17,798| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 12:13:17,804| product_page |test_add_product | INFO | Enter user password
+2022-06-21 12:13:17,876| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 12:13:19,024| product_page |test_add_product | INFO | Login successfully
+2022-06-21 12:13:24,056| base_page |test_add_product | ERROR | Element (#menu-catalog [data-toggle="coooooo"]) is not found
+2022-06-21 12:13:29,138| base_page |test_add_product | ERROR | Element (.alert) is not found
+2022-06-21 12:13:29,358| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 12:14:10,528| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 12:14:10,531| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 12:14:11,875| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 12:14:11,875| product_page |test_add_product | INFO | Enter user name
+2022-06-21 12:14:11,957| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 12:14:11,962| product_page |test_add_product | INFO | Enter user password
+2022-06-21 12:14:12,034| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 12:14:12,488| product_page |test_add_product | INFO | Login successfully
+2022-06-21 12:14:17,537| base_page |test_add_product | ERROR | Element (#menu-catalog [data-toggle="coooooo"]) is not found
+2022-06-21 12:14:17,537| product_page |test_add_product | INFO | Click catalog reference
+2022-06-21 12:14:27,633| base_page |test_add_product | ERROR | Element (.alert) is not found
+2022-06-21 12:14:27,634| product_page |test_add_product | ERROR | Not done
+2022-06-21 12:14:27,816| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 12:15:41,289| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 12:15:41,292| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 12:15:42,642| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 12:15:42,643| product_page |test_add_product | INFO | Enter user name
+2022-06-21 12:15:42,725| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 12:15:42,731| product_page |test_add_product | INFO | Enter user password
+2022-06-21 12:15:42,803| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 12:15:43,568| product_page |test_add_product | INFO | Login successfully
+2022-06-21 12:15:48,635| base_page |test_add_product | ERROR | Element (#menu-catalog [data-toggle="coooooo"]) is not found
+2022-06-21 12:15:53,691| base_page |test_add_product | ERROR | Element (.alert) is not found
+2022-06-21 12:15:53,894| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 12:19:49,110| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 12:19:49,112| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 12:19:50,660| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 12:19:50,660| product_page |test_add_product | INFO | Enter user name
+2022-06-21 12:19:50,741| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 12:19:50,746| product_page |test_add_product | INFO | Enter user password
+2022-06-21 12:19:50,818| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 12:19:51,473| product_page |test_add_product | INFO | Login successfully
+2022-06-21 12:19:56,531| base_page |test_add_product | ERROR | Element (#menu-catalog [data-toggle="coooooo"]) is not found
+2022-06-21 12:20:01,587| base_page |test_add_product | ERROR | Element (.alert) is not found
+2022-06-21 12:20:01,792| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 12:25:10,292| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 12:25:10,295| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 12:25:12,222| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 12:25:12,222| product_page |test_add_product | INFO | Enter user name
+2022-06-21 12:25:12,306| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 12:25:12,312| product_page |test_add_product | INFO | Enter user password
+2022-06-21 12:25:12,387| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 12:25:13,089| product_page |test_add_product | INFO | Login successfully
+2022-06-21 12:25:18,143| base_page |test_add_product | ERROR | Element (#menu-catalog [data-toggle="coooooo"]) is not found
+2022-06-21 12:25:18,143| product_page |test_add_product | INFO | Click catalog reference
+2022-06-21 12:25:23,338| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 12:27:20,468| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 12:27:20,470| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 12:27:22,060| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 12:27:22,060| product_page |test_add_product | INFO | Enter user name
+2022-06-21 12:27:22,142| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 12:27:22,150| product_page |test_add_product | INFO | Enter user password
+2022-06-21 12:27:22,221| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 12:27:22,741| product_page |test_add_product | INFO | Login successfully
+2022-06-21 12:27:27,783| base_page |test_add_product | ERROR | Element (#menu-catalog [data-toggle="coooooo"]) is not found
+2022-06-21 12:27:27,947| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 12:29:20,540| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 12:29:20,542| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 12:29:22,439| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 12:29:22,439| base_page |test_add_product | ERROR | Element (#input-username) is not found
+2022-06-21 12:29:22,567| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 12:29:30,882| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 12:29:30,885| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 12:29:32,545| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 12:29:32,545| base_page |test_add_product | ERROR | Element (#input-username) is not found
+2022-06-21 12:29:32,673| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 12:30:43,331| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 12:30:43,333| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 12:30:45,344| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 12:30:45,344| product_page |test_add_product | INFO | Enter user name
+2022-06-21 12:30:45,427| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 12:30:45,432| product_page |test_add_product | INFO | Enter user password
+2022-06-21 12:30:45,504| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 12:30:46,347| product_page |test_add_product | INFO | Login successfully
+2022-06-21 12:30:51,397| base_page |test_add_product | ERROR | Element (#menu-catalog [data-toggle="coooooo"]) is not found
+2022-06-21 12:30:51,568| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 13:54:56,350| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 13:54:56,353| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 13:55:00,995| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 13:55:00,995| product_page |test_add_product | INFO | Enter user name
+2022-06-21 13:55:01,080| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 13:55:01,085| product_page |test_add_product | INFO | Enter user password
+2022-06-21 13:55:01,159| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 13:55:01,884| product_page |test_add_product | INFO | Login successfully
+2022-06-21 13:55:06,919| base_page |test_add_product | ERROR | Element (#menu-catalog [data-toggle="coooooo"]) is not found
+2022-06-21 13:55:07,092| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 13:56:44,517| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 13:56:44,519| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 13:56:46,775| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 13:56:46,775| product_page |test_add_product | INFO | Enter user name
+2022-06-21 13:56:46,859| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 13:56:46,865| product_page |test_add_product | INFO | Enter user password
+2022-06-21 13:56:46,939| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 13:56:48,004| product_page |test_add_product | INFO | Login successfully
+2022-06-21 13:56:53,039| base_page |test_add_product | ERROR | Element (#menu-catalog [data-toggle="coooooo"]) is not found
+2022-06-21 13:56:53,041| product_page |test_add_product | ERROR | Product not added
+2022-06-21 13:56:58,088| base_page |test_add_product | ERROR | Element (.alert) is not found
+2022-06-21 13:56:58,277| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 14:01:29,381| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 14:01:29,384| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 14:01:31,789| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 14:01:31,790| product_page |test_add_product | INFO | Enter user name
+2022-06-21 14:01:31,873| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 14:01:31,878| product_page |test_add_product | INFO | Enter user password
+2022-06-21 14:01:31,949| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 14:01:32,612| product_page |test_add_product | INFO | Login successfully
+2022-06-21 14:01:37,644| base_page |test_add_product | ERROR | Element (#menu-catalog [data-toggle="coooooo"]) is not found
+2022-06-21 14:01:37,651| product_page |test_add_product | ERROR | Product not added
+2022-06-21 14:01:37,651| product_page |test_add_product | INFO | Check that the product was added
+2022-06-21 14:01:42,675| product_page |test_add_product | ERROR | Product not added
+2022-06-21 14:01:42,865| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 14:04:30,185| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 14:04:30,188| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 14:04:31,552| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 14:04:31,552| product_page |test_add_product | INFO | Enter user name
+2022-06-21 14:04:31,637| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 14:04:31,642| product_page |test_add_product | INFO | Enter user password
+2022-06-21 14:04:31,717| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 14:04:32,507| product_page |test_add_product | INFO | Login successfully
+2022-06-21 14:04:37,580| base_page |test_add_product | ERROR | Element (#menu-catalog [data-toggle="coooooo"]) is not found
+2022-06-21 14:04:37,581| product_page |test_add_product | ERROR | Product not added
+2022-06-21 14:04:37,768| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 14:11:16,118| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 14:11:16,121| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 14:11:20,296| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 14:11:20,296| product_page |test_add_product | INFO | Enter user name
+2022-06-21 14:11:20,378| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 14:11:20,384| product_page |test_add_product | INFO | Enter user password
+2022-06-21 14:11:20,458| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 14:11:21,275| product_page |test_add_product | INFO | Login successfully
+2022-06-21 14:11:21,283| base_page |test_add_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-21 14:11:21,284| product_page |test_add_product | INFO | Click catalog reference
+2022-06-21 14:11:21,704| base_page |test_add_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-21 14:11:21,705| product_page |test_add_product | INFO | Choose product category
+2022-06-21 14:11:22,008| base_page |test_add_product | INFO | Element ([data-original-title="Add New"]) is present on the page
+2022-06-21 14:11:22,008| product_page |test_add_product | INFO | Click btn add new product
+2022-06-21 14:11:22,777| base_page |test_add_product | INFO | Element ([href="#tab-general"]) is present on the page
+2022-06-21 14:11:22,777| product_page |test_add_product | INFO | Click general tab
+2022-06-21 14:11:22,817| base_page |test_add_product | INFO | Element (#input-name1) is present on the page
+2022-06-21 14:11:22,817| product_page |test_add_product | INFO | Enter product name
+2022-06-21 14:11:22,900| base_page |test_add_product | INFO | Element (#input-meta-title1) is present on the page
+2022-06-21 14:11:22,901| product_page |test_add_product | INFO | Enter meta teg title
+2022-06-21 14:11:22,981| base_page |test_add_product | INFO | Element ([href="#tab-data"]) is present on the page
+2022-06-21 14:11:22,981| product_page |test_add_product | INFO | Click data tab
+2022-06-21 14:11:23,026| base_page |test_add_product | INFO | Element (#input-model) is present on the page
+2022-06-21 14:11:23,026| product_page |test_add_product | INFO | Enter model
+2022-06-21 14:11:23,103| base_page |test_add_product | INFO | Element (.pull-right .btn.btn-primary) is present on the page
+2022-06-21 14:11:23,103| product_page |test_add_product | INFO | Click btn save
+2022-06-21 14:11:23,537| product_page |test_add_product | INFO | Check that the product was added
+2022-06-21 14:11:23,546| product_page |test_add_product | INFO | Product add successfully
+2022-06-21 14:11:23,548| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 14:11:27,034| conftest |test_delete_product | INFO | Start driver chrome
+2022-06-21 14:11:27,036| base_page |test_delete_product | INFO | Open URL: http://localhost//admin
+2022-06-21 14:11:28,874| base_page |test_delete_product | INFO | Element (#input-username) is present on the page
+2022-06-21 14:11:28,874| product_page |test_delete_product | INFO | Enter user name
+2022-06-21 14:11:28,964| base_page |test_delete_product | INFO | Element (#input-password) is present on the page
+2022-06-21 14:11:28,970| product_page |test_delete_product | INFO | Enter user password
+2022-06-21 14:11:29,042| base_page |test_delete_product | INFO | Element (button) is present on the page
+2022-06-21 14:11:29,909| product_page |test_delete_product | INFO | Login successfully
+2022-06-21 14:11:29,917| base_page |test_delete_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-21 14:11:29,917| product_page |test_delete_product | INFO | Click on catalog reference
+2022-06-21 14:11:30,333| base_page |test_delete_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-21 14:11:30,333| product_page |test_delete_product | INFO | Choose product category
+2022-06-21 14:11:30,536| base_page |test_delete_product | INFO | Element (.table.table-bordered tbody input) is present on the page
+2022-06-21 14:11:30,537| product_page |test_delete_product | INFO | Choose product
+2022-06-21 14:11:30,581| base_page |test_delete_product | INFO | Element (.btn-danger) is present on the page
+2022-06-21 14:11:30,582| product_page |test_delete_product | INFO | Delete product
+2022-06-21 14:11:30,615| conftest |test_delete_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 14:28:45,051| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 14:28:45,053| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 14:28:49,315| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 14:28:49,315| product_page |test_add_product | INFO | Enter user name
+2022-06-21 14:28:49,396| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 14:28:49,402| product_page |test_add_product | INFO | Enter user password
+2022-06-21 14:28:49,476| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 14:28:50,633| product_page |test_add_product | INFO | Login successfully
+2022-06-21 14:28:50,641| base_page |test_add_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-21 14:28:50,641| product_page |test_add_product | INFO | Click catalog reference
+2022-06-21 14:28:51,053| base_page |test_add_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-21 14:28:51,053| product_page |test_add_product | INFO | Choose product category
+2022-06-21 14:28:51,255| base_page |test_add_product | INFO | Element ([data-original-title="Add New"]) is present on the page
+2022-06-21 14:28:51,255| product_page |test_add_product | INFO | Click btn add new product
+2022-06-21 14:28:51,802| base_page |test_add_product | INFO | Element ([href="#tab-general"]) is present on the page
+2022-06-21 14:28:51,802| product_page |test_add_product | INFO | Click general tab
+2022-06-21 14:28:51,841| base_page |test_add_product | INFO | Element (#input-name1) is present on the page
+2022-06-21 14:28:51,841| product_page |test_add_product | INFO | Enter product name
+2022-06-21 14:28:51,927| base_page |test_add_product | INFO | Element (#input-meta-title1) is present on the page
+2022-06-21 14:28:51,927| product_page |test_add_product | INFO | Enter meta teg title
+2022-06-21 14:28:52,022| base_page |test_add_product | INFO | Element ([href="#tab-data"]) is present on the page
+2022-06-21 14:28:52,022| product_page |test_add_product | INFO | Click data tab
+2022-06-21 14:28:52,069| base_page |test_add_product | INFO | Element (#input-model) is present on the page
+2022-06-21 14:28:52,069| product_page |test_add_product | INFO | Enter model
+2022-06-21 14:28:52,150| base_page |test_add_product | INFO | Element (.pull-right .btn.btn-primary) is present on the page
+2022-06-21 14:28:52,150| product_page |test_add_product | INFO | Click btn save
+2022-06-21 14:28:52,515| product_page |test_add_product | INFO | Check that the product was added
+2022-06-21 14:28:52,523| product_page |test_add_product | INFO | Product add successfully
+2022-06-21 14:28:52,525| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 14:28:55,801| conftest |test_delete_product | INFO | Start driver chrome
+2022-06-21 14:28:55,804| base_page |test_delete_product | INFO | Open URL: http://localhost//admin
+2022-06-21 14:28:57,266| base_page |test_delete_product | INFO | Element (#input-username) is present on the page
+2022-06-21 14:28:57,266| product_page |test_delete_product | INFO | Enter user name
+2022-06-21 14:28:57,347| base_page |test_delete_product | INFO | Element (#input-password) is present on the page
+2022-06-21 14:28:57,353| product_page |test_delete_product | INFO | Enter user password
+2022-06-21 14:28:57,423| base_page |test_delete_product | INFO | Element (button) is present on the page
+2022-06-21 14:28:58,433| product_page |test_delete_product | INFO | Login successfully
+2022-06-21 14:28:58,443| base_page |test_delete_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-21 14:28:58,443| product_page |test_delete_product | INFO | Click on catalog reference
+2022-06-21 14:28:58,872| base_page |test_delete_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-21 14:28:58,872| product_page |test_delete_product | INFO | Choose product category
+2022-06-21 14:28:59,019| base_page |test_delete_product | INFO | Element (.table.table-bordered tbody input) is present on the page
+2022-06-21 14:28:59,019| product_page |test_delete_product | INFO | Choose product
+2022-06-21 14:28:59,065| base_page |test_delete_product | INFO | Element (.btn-danger) is present on the page
+2022-06-21 14:28:59,065| product_page |test_delete_product | INFO | Delete product
+2022-06-21 14:28:59,097| conftest |test_delete_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 15:38:50,989| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 15:38:51,015| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 15:38:52,729| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 15:38:52,729| product_page |test_add_product | INFO | Enter user name
+2022-06-21 15:38:52,840| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 15:38:52,846| product_page |test_add_product | INFO | Enter user password
+2022-06-21 15:38:52,917| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 15:38:53,725| product_page |test_add_product | INFO | Login successfully
+2022-06-21 15:38:53,733| base_page |test_add_product | INFO | Element (#menu-catalog [data-toggle="collapse"]) is present on the page
+2022-06-21 15:38:53,733| product_page |test_add_product | INFO | Click catalog reference
+2022-06-21 15:38:54,150| base_page |test_add_product | INFO | Element (.collapse.in li) is present on the page
+2022-06-21 15:38:54,150| product_page |test_add_product | INFO | Choose product category
+2022-06-21 15:38:54,527| base_page |test_add_product | INFO | Element ([data-original-title="Add New"]) is present on the page
+2022-06-21 15:38:54,527| product_page |test_add_product | INFO | Click btn add new product
+2022-06-21 15:38:55,245| base_page |test_add_product | INFO | Element ([href="#tab-general"]) is present on the page
+2022-06-21 15:38:55,245| product_page |test_add_product | INFO | Click general tab
+2022-06-21 15:38:55,280| base_page |test_add_product | INFO | Element (#input-name1) is present on the page
+2022-06-21 15:38:55,280| product_page |test_add_product | INFO | Enter product name
+2022-06-21 15:38:55,369| base_page |test_add_product | INFO | Element (#input-meta-title1) is present on the page
+2022-06-21 15:38:55,369| product_page |test_add_product | INFO | Enter meta teg title
+2022-06-21 15:38:55,459| base_page |test_add_product | INFO | Element ([href="#tab-data"]) is present on the page
+2022-06-21 15:38:55,459| product_page |test_add_product | INFO | Click data tab
+2022-06-21 15:38:55,506| base_page |test_add_product | INFO | Element (#input-model) is present on the page
+2022-06-21 15:38:55,506| product_page |test_add_product | INFO | Enter model
+2022-06-21 15:38:55,591| base_page |test_add_product | INFO | Element (.pull-right .btn.btn-primary) is present on the page
+2022-06-21 15:38:55,592| product_page |test_add_product | INFO | Click btn save
+2022-06-21 15:38:55,953| product_page |test_add_product | INFO | Check that the product was added
+2022-06-21 15:38:55,961| product_page |test_add_product | INFO | Product add successfully
+2022-06-21 15:38:55,963| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 15:39:47,292| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 15:39:47,295| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 15:39:48,885| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 15:39:48,885| product_page |test_add_product | INFO | Enter user name
+2022-06-21 15:39:48,966| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 15:39:48,971| product_page |test_add_product | INFO | Enter user password
+2022-06-21 15:39:49,042| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 15:39:54,954| product_page |test_add_product | ERROR | You are not login
+2022-06-21 15:39:55,138| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 15:42:06,454| conftest |test_add_product | INFO | Start driver chrome
+2022-06-21 15:42:06,458| base_page |test_add_product | INFO | Open URL: http://localhost//admin
+2022-06-21 15:42:08,206| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-06-21 15:42:08,206| product_page |test_add_product | INFO | Enter user name
+2022-06-21 15:42:08,288| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-06-21 15:42:08,294| product_page |test_add_product | INFO | Enter user password
+2022-06-21 15:42:08,367| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-06-21 15:42:14,296| base_page |test_add_product | ERROR | Element (#u) is not found
+2022-06-21 15:42:14,347| product_page |test_add_product | ERROR | You are not login
+2022-06-21 15:42:14,516| conftest |test_add_product | INFO | Stop driver chrome 
+==============================================================================================================
+2022-07-20 15:19:52,667| conftest |test_add_product | INFO | Start driver remote with chrome browser
+2022-07-20 15:19:52,707| base_page |test_add_product | INFO | Open URL: http://10.234.28.102:8081//admin
+2022-07-20 15:19:59,151| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-07-20 15:19:59,151| product_page |test_add_product | INFO | Enter user name
+2022-07-20 15:20:00,100| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-07-20 15:20:00,108| product_page |test_add_product | INFO | Enter user password
+2022-07-20 15:20:00,235| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-07-20 15:20:01,086| base_page |test_add_product | ERROR | Element (#menu) is not found
+2022-07-20 15:20:01,182| product_page |test_add_product | ERROR | You are not login
+2022-07-20 15:20:01,327| conftest |test_add_product | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 15:20:06,731| conftest |test_delete_product | INFO | Start driver remote with chrome browser
+2022-07-20 15:20:06,732| base_page |test_delete_product | INFO | Open URL: http://10.234.28.102:8081//admin
+2022-07-20 15:20:13,106| base_page |test_delete_product | INFO | Element (#input-username) is present on the page
+2022-07-20 15:20:13,106| product_page |test_delete_product | INFO | Enter user name
+2022-07-20 15:20:13,199| base_page |test_delete_product | INFO | Element (#input-password) is present on the page
+2022-07-20 15:20:13,206| product_page |test_delete_product | INFO | Enter user password
+2022-07-20 15:20:13,287| base_page |test_delete_product | INFO | Element (button) is present on the page
+2022-07-20 15:20:15,101| base_page |test_delete_product | ERROR | Element (#menu) is not found
+2022-07-20 15:20:15,206| product_page |test_delete_product | ERROR | You are not login
+2022-07-20 15:20:15,245| conftest |test_delete_product | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:20:22,341| conftest |test_add_product | INFO | Start driver remote with chrome browser
+2022-07-20 17:20:22,716| base_page |test_add_product | INFO | Open URL: http://10.234.28.102:8081//admin
+2022-07-20 17:20:32,739| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-07-20 17:20:32,739| product_page |test_add_product | INFO | Enter user name
+2022-07-20 17:20:33,555| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-07-20 17:20:33,565| product_page |test_add_product | INFO | Enter user password
+2022-07-20 17:20:33,690| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-07-20 17:20:34,807| base_page |test_add_product | ERROR | Element (#menu) is not found
+2022-07-20 17:20:34,873| product_page |test_add_product | ERROR | You are not login
+2022-07-20 17:20:35,006| conftest |test_add_product | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:20:40,275| conftest |test_delete_product | INFO | Start driver remote with chrome browser
+2022-07-20 17:20:40,276| base_page |test_delete_product | INFO | Open URL: http://10.234.28.102:8081//admin
+2022-07-20 17:20:47,585| base_page |test_delete_product | INFO | Element (#input-username) is present on the page
+2022-07-20 17:20:47,585| product_page |test_delete_product | INFO | Enter user name
+2022-07-20 17:20:47,729| base_page |test_delete_product | INFO | Element (#input-password) is present on the page
+2022-07-20 17:20:47,736| product_page |test_delete_product | INFO | Enter user password
+2022-07-20 17:20:47,819| base_page |test_delete_product | INFO | Element (button) is present on the page
+2022-07-20 17:20:49,582| base_page |test_delete_product | ERROR | Element (#menu) is not found
+2022-07-20 17:20:49,655| product_page |test_delete_product | ERROR | You are not login
+2022-07-20 17:20:49,687| conftest |test_delete_product | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:38:13,895| conftest |test_add_product | INFO | Start driver remote with chrome browser
+2022-07-20 17:38:13,935| base_page |test_add_product | INFO | Open URL: http://10.234.28.102:8081//admin
+2022-07-20 17:38:21,605| base_page |test_add_product | INFO | Element (#input-username) is present on the page
+2022-07-20 17:38:21,605| product_page |test_add_product | INFO | Enter user name
+2022-07-20 17:38:21,713| base_page |test_add_product | INFO | Element (#input-password) is present on the page
+2022-07-20 17:38:21,720| product_page |test_add_product | INFO | Enter user password
+2022-07-20 17:38:21,800| base_page |test_add_product | INFO | Element (button) is present on the page
+2022-07-20 17:38:23,582| base_page |test_add_product | ERROR | Element (#menu) is not found
+2022-07-20 17:38:23,648| product_page |test_add_product | ERROR | You are not login
+2022-07-20 17:38:23,716| conftest |test_add_product | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:38:28,866| conftest |test_delete_product | INFO | Start driver remote with chrome browser
+2022-07-20 17:38:28,866| base_page |test_delete_product | INFO | Open URL: http://10.234.28.102:8081//admin
+2022-07-20 17:38:36,371| base_page |test_delete_product | INFO | Element (#input-username) is present on the page
+2022-07-20 17:38:36,371| product_page |test_delete_product | INFO | Enter user name
+2022-07-20 17:38:36,481| base_page |test_delete_product | INFO | Element (#input-password) is present on the page
+2022-07-20 17:38:36,488| product_page |test_delete_product | INFO | Enter user password
+2022-07-20 17:38:36,569| base_page |test_delete_product | INFO | Element (button) is present on the page
+2022-07-20 17:38:38,348| base_page |test_delete_product | ERROR | Element (#menu) is not found
+2022-07-20 17:38:38,455| product_page |test_delete_product | ERROR | You are not login
+2022-07-20 17:38:38,508| conftest |test_delete_product | INFO | Stop driver remote 
+==============================================================================================================

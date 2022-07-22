@@ -1,0 +1,259 @@
+2022-06-22 11:39:56,244| conftest |test_personal_details_form[input-firstname] | INFO | Start driver chrome
+2022-06-22 11:39:56,265| base_page |test_personal_details_form[input-firstname] | INFO | Open URL: http://localhost//index.php?route=account/register
+2022-06-22 11:40:01,646| registration_user_page |test_personal_details_form[input-firstname] | INFO | Find  #input-firstname by using css selector
+2022-06-22 11:40:01,800| conftest |test_personal_details_form[input-firstname] | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 11:40:06,029| conftest |test_personal_details_form[input-lastname] | INFO | Start driver chrome
+2022-06-22 11:40:06,030| base_page |test_personal_details_form[input-lastname] | INFO | Open URL: http://localhost//index.php?route=account/register
+2022-06-22 11:40:08,608| registration_user_page |test_personal_details_form[input-lastname] | INFO | Find  #input-lastname by using css selector
+2022-06-22 11:40:08,722| conftest |test_personal_details_form[input-lastname] | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 11:40:12,540| conftest |test_personal_details_form[input-email] | INFO | Start driver chrome
+2022-06-22 11:40:12,542| base_page |test_personal_details_form[input-email] | INFO | Open URL: http://localhost//index.php?route=account/register
+2022-06-22 11:40:14,533| registration_user_page |test_personal_details_form[input-email] | INFO | Find  #input-email by using css selector
+2022-06-22 11:40:14,580| conftest |test_personal_details_form[input-email] | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 11:40:18,220| conftest |test_personal_details_form[input-telephone] | INFO | Start driver chrome
+2022-06-22 11:40:18,222| base_page |test_personal_details_form[input-telephone] | INFO | Open URL: http://localhost//index.php?route=account/register
+2022-06-22 11:40:20,949| registration_user_page |test_personal_details_form[input-telephone] | INFO | Find  #input-telephone by using css selector
+2022-06-22 11:40:21,024| conftest |test_personal_details_form[input-telephone] | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 11:40:24,703| conftest |test_password_form[input-password] | INFO | Start driver chrome
+2022-06-22 11:40:24,705| base_page |test_password_form[input-password] | INFO | Open URL: http://localhost//index.php?route=account/register
+2022-06-22 11:40:27,214| registration_user_page |test_password_form[input-password] | INFO | Find  #input-password by using css selector
+2022-06-22 11:40:27,256| conftest |test_password_form[input-password] | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 11:40:31,078| conftest |test_password_form[input-confirm] | INFO | Start driver chrome
+2022-06-22 11:40:31,080| base_page |test_password_form[input-confirm] | INFO | Open URL: http://localhost//index.php?route=account/register
+2022-06-22 11:40:32,653| registration_user_page |test_password_form[input-confirm] | INFO | Find  #input-confirm by using css selector
+2022-06-22 11:40:32,663| conftest |test_password_form[input-confirm] | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 11:40:36,684| conftest |test_btns_subscribe | INFO | Start driver chrome
+2022-06-22 11:40:36,685| base_page |test_btns_subscribe | INFO | Open URL: http://localhost//index.php?route=account/register
+2022-06-22 11:40:39,524| registration_user_page |test_btns_subscribe | INFO | Find element
+2022-06-22 11:40:39,541| conftest |test_btns_subscribe | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 11:40:43,571| conftest |test_privacy_policy_checkpoint | INFO | Start driver chrome
+2022-06-22 11:40:43,572| base_page |test_privacy_policy_checkpoint | INFO | Open URL: http://localhost//index.php?route=account/register
+2022-06-22 11:40:46,253| registration_user_page |test_privacy_policy_checkpoint | INFO | Find [type=checkbox] by using css selector
+2022-06-22 11:40:46,293| base_page |test_privacy_policy_checkpoint | INFO | Element ([type=checkbox]) is present on the page
+2022-06-22 11:40:46,306| conftest |test_privacy_policy_checkpoint | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 11:40:49,979| conftest |test_btn_continue | INFO | Start driver chrome
+2022-06-22 11:40:49,981| base_page |test_btn_continue | INFO | Open URL: http://localhost//index.php?route=account/register
+2022-06-22 11:40:53,090| registration_user_page |test_btn_continue | INFO | Find [type=submit] by using css selector
+2022-06-22 11:40:53,099| base_page |test_btn_continue | INFO | Element ([type=submit]) is present on the page
+2022-06-22 11:40:53,162| conftest |test_btn_continue | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 11:40:56,678| conftest |test_registration_new_user | INFO | Start driver chrome
+2022-06-22 11:40:56,680| base_page |test_registration_new_user | INFO | Open URL: http://localhost/
+2022-06-22 11:40:58,717| base_page |test_registration_new_user | INFO | Element (#top-links .dropdown) is present on the page
+2022-06-22 11:40:58,718| registration_user_page |test_registration_new_user | INFO | Click on dropdown for registration
+2022-06-22 11:40:58,828| base_page |test_registration_new_user | INFO | Element (.dropdown-menu.dropdown-menu-right a) is present on the page
+2022-06-22 11:40:58,828| registration_user_page |test_registration_new_user | INFO | Click on button for registration
+2022-06-22 11:40:59,505| base_page |test_registration_new_user | INFO | Element (#input-firstname) is present on the page
+2022-06-22 11:40:59,505| registration_user_page |test_registration_new_user | INFO | Enter first name
+2022-06-22 11:41:00,204| base_page |test_registration_new_user | INFO | Element (#input-lastname) is present on the page
+2022-06-22 11:41:00,205| registration_user_page |test_registration_new_user | INFO | Enter last name
+2022-06-22 11:41:00,282| base_page |test_registration_new_user | INFO | Element (#input-email) is present on the page
+2022-06-22 11:41:00,287| registration_user_page |test_registration_new_user | INFO | Enter e-mail
+2022-06-22 11:41:00,432| base_page |test_registration_new_user | INFO | Element (#input-telephone) is present on the page
+2022-06-22 11:41:00,439| registration_user_page |test_registration_new_user | INFO | Enter telephone
+2022-06-22 11:41:00,521| base_page |test_registration_new_user | INFO | Element (#input-password) is present on the page
+2022-06-22 11:41:00,526| registration_user_page |test_registration_new_user | INFO | Enter password
+2022-06-22 11:41:00,590| registration_user_page |test_registration_new_user | INFO | Enter password for confirm
+2022-06-22 11:41:00,655| base_page |test_registration_new_user | INFO | Element ([type="checkbox"]) is present on the page
+2022-06-22 11:41:00,686| registration_user_page |test_registration_new_user | INFO | Click on privacy checkbox
+2022-06-22 11:41:00,693| base_page |test_registration_new_user | INFO | Element (.btn-primary) is present on the page
+2022-06-22 11:41:01,223| registration_user_page |test_registration_new_user | INFO | Find #content h1 by using css selector
+2022-06-22 11:41:01,277| registration_user_page |test_registration_new_user | INFO | User registration is successfully
+2022-06-22 11:41:01,370| conftest |test_registration_new_user | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 11:47:06,168| conftest |test_registration_new_user | INFO | Start driver chrome
+2022-06-22 11:47:06,179| base_page |test_registration_new_user | INFO | Open URL: http://localhost/
+2022-06-22 11:47:08,696| base_page |test_registration_new_user | INFO | Element (#top-links .dropdown) is present on the page
+2022-06-22 11:47:08,697| registration_user_page |test_registration_new_user | INFO | Click on dropdown for registration
+2022-06-22 11:47:08,942| base_page |test_registration_new_user | INFO | Element (.dropdown-menu.dropdown-menu-right a) is present on the page
+2022-06-22 11:47:08,942| registration_user_page |test_registration_new_user | INFO | Click on button for registration
+2022-06-22 11:47:09,276| base_page |test_registration_new_user | INFO | Element (#input-firstname) is present on the page
+2022-06-22 11:47:09,277| registration_user_page |test_registration_new_user | INFO | Enter first name
+2022-06-22 11:47:09,718| conftest |test_registration_new_user | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-22 11:47:50,241| conftest |test_registration_new_user | INFO | Start driver chrome
+2022-06-22 11:47:50,243| base_page |test_registration_new_user | INFO | Open URL: http://localhost/
+2022-06-22 11:47:51,335| base_page |test_registration_new_user | INFO | Element (#top-links .dropdown) is present on the page
+2022-06-22 11:47:51,335| registration_user_page |test_registration_new_user | INFO | Click on dropdown for registration
+2022-06-22 11:47:51,374| base_page |test_registration_new_user | INFO | Element (.dropdown-menu.dropdown-menu-right a) is present on the page
+2022-06-22 11:47:51,374| registration_user_page |test_registration_new_user | INFO | Click on button for registration
+2022-06-22 11:47:51,899| base_page |test_registration_new_user | INFO | Element (#input-firstname) is present on the page
+2022-06-22 11:47:51,899| registration_user_page |test_registration_new_user | INFO | Enter first name
+2022-06-22 11:47:52,092| conftest |test_registration_new_user | INFO | Stop driver chrome 
+==============================================================================================================
+2022-07-20 15:20:21,581| conftest |test_personal_details_form[input-firstname] | INFO | Start driver remote with chrome browser
+2022-07-20 15:20:21,602| base_page |test_personal_details_form[input-firstname] | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 15:20:29,982| registration_user_page |test_personal_details_form[input-firstname] | INFO | Find  #input-firstname by using css selector
+2022-07-20 15:20:30,034| conftest |test_personal_details_form[input-firstname] | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 15:20:35,097| conftest |test_personal_details_form[input-lastname] | INFO | Start driver remote with chrome browser
+2022-07-20 15:20:35,098| base_page |test_personal_details_form[input-lastname] | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 15:20:41,721| registration_user_page |test_personal_details_form[input-lastname] | INFO | Find  #input-lastname by using css selector
+2022-07-20 15:20:41,755| conftest |test_personal_details_form[input-lastname] | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 15:20:46,912| conftest |test_personal_details_form[input-email] | INFO | Start driver remote with chrome browser
+2022-07-20 15:20:46,913| base_page |test_personal_details_form[input-email] | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 15:20:54,155| registration_user_page |test_personal_details_form[input-email] | INFO | Find  #input-email by using css selector
+2022-07-20 15:20:54,197| conftest |test_personal_details_form[input-email] | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 15:20:58,644| conftest |test_personal_details_form[input-telephone] | INFO | Start driver remote with chrome browser
+2022-07-20 15:20:58,645| base_page |test_personal_details_form[input-telephone] | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 15:21:05,106| registration_user_page |test_personal_details_form[input-telephone] | INFO | Find  #input-telephone by using css selector
+2022-07-20 15:21:05,147| conftest |test_personal_details_form[input-telephone] | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 15:21:10,297| conftest |test_password_form[input-password] | INFO | Start driver remote with chrome browser
+2022-07-20 15:21:10,298| base_page |test_password_form[input-password] | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 15:21:16,694| registration_user_page |test_password_form[input-password] | INFO | Find  #input-password by using css selector
+2022-07-20 15:21:16,709| conftest |test_password_form[input-password] | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 15:21:21,705| conftest |test_password_form[input-confirm] | INFO | Start driver remote with chrome browser
+2022-07-20 15:21:21,706| base_page |test_password_form[input-confirm] | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 15:21:28,240| registration_user_page |test_password_form[input-confirm] | INFO | Find  #input-confirm by using css selector
+2022-07-20 15:21:28,253| conftest |test_password_form[input-confirm] | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 15:21:33,094| conftest |test_btns_subscribe | INFO | Start driver remote with chrome browser
+2022-07-20 15:21:33,096| base_page |test_btns_subscribe | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 15:21:39,453| registration_user_page |test_btns_subscribe | INFO | Find element
+2022-07-20 15:21:39,496| conftest |test_btns_subscribe | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 15:21:45,108| conftest |test_privacy_policy_checkpoint | INFO | Start driver remote with chrome browser
+2022-07-20 15:21:45,109| base_page |test_privacy_policy_checkpoint | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 15:21:51,799| registration_user_page |test_privacy_policy_checkpoint | INFO | Find [type=checkbox] by using css selector
+2022-07-20 15:21:51,825| base_page |test_privacy_policy_checkpoint | INFO | Element ([type=checkbox]) is present on the page
+2022-07-20 15:21:51,828| conftest |test_privacy_policy_checkpoint | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 15:21:57,178| conftest |test_btn_continue | INFO | Start driver remote with chrome browser
+2022-07-20 15:21:57,179| base_page |test_btn_continue | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 15:22:03,661| registration_user_page |test_btn_continue | INFO | Find [type=submit] by using css selector
+2022-07-20 15:22:03,678| base_page |test_btn_continue | INFO | Element ([type=submit]) is present on the page
+2022-07-20 15:22:03,679| conftest |test_btn_continue | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 15:22:08,391| conftest |test_registration_new_user | INFO | Start driver remote with chrome browser
+2022-07-20 15:22:08,392| base_page |test_registration_new_user | INFO | Open URL: http://10.234.28.102:8081/
+2022-07-20 15:22:21,150| base_page |test_registration_new_user | INFO | Element (#top-links .dropdown) is present on the page
+2022-07-20 15:22:21,150| registration_user_page |test_registration_new_user | INFO | Click on dropdown for registration
+2022-07-20 15:22:21,196| base_page |test_registration_new_user | INFO | Element (.dropdown-menu.dropdown-menu-right a) is present on the page
+2022-07-20 15:22:21,196| registration_user_page |test_registration_new_user | INFO | Click on button for registration
+2022-07-20 15:22:23,393| base_page |test_registration_new_user | ERROR | Element (#input-firstname) is not found
+2022-07-20 15:22:23,468| conftest |test_registration_new_user | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:20:56,445| conftest |test_personal_details_form[input-firstname] | INFO | Start driver remote with chrome browser
+2022-07-20 17:20:56,537| base_page |test_personal_details_form[input-firstname] | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 17:21:03,770| registration_user_page |test_personal_details_form[input-firstname] | INFO | Find  #input-firstname by using css selector
+2022-07-20 17:21:03,799| conftest |test_personal_details_form[input-firstname] | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:21:08,522| conftest |test_personal_details_form[input-lastname] | INFO | Start driver remote with chrome browser
+2022-07-20 17:21:08,523| base_page |test_personal_details_form[input-lastname] | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 17:21:16,262| registration_user_page |test_personal_details_form[input-lastname] | INFO | Find  #input-lastname by using css selector
+2022-07-20 17:21:16,315| conftest |test_personal_details_form[input-lastname] | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:21:21,591| conftest |test_personal_details_form[input-email] | INFO | Start driver remote with chrome browser
+2022-07-20 17:21:21,592| base_page |test_personal_details_form[input-email] | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 17:21:28,355| registration_user_page |test_personal_details_form[input-email] | INFO | Find  #input-email by using css selector
+2022-07-20 17:21:28,379| conftest |test_personal_details_form[input-email] | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:21:33,790| conftest |test_personal_details_form[input-telephone] | INFO | Start driver remote with chrome browser
+2022-07-20 17:21:33,792| base_page |test_personal_details_form[input-telephone] | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 17:21:40,532| registration_user_page |test_personal_details_form[input-telephone] | INFO | Find  #input-telephone by using css selector
+2022-07-20 17:21:40,573| conftest |test_personal_details_form[input-telephone] | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:21:45,506| conftest |test_password_form[input-password] | INFO | Start driver remote with chrome browser
+2022-07-20 17:21:45,507| base_page |test_password_form[input-password] | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 17:21:52,686| registration_user_page |test_password_form[input-password] | INFO | Find  #input-password by using css selector
+2022-07-20 17:21:52,722| conftest |test_password_form[input-password] | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:21:58,391| conftest |test_password_form[input-confirm] | INFO | Start driver remote with chrome browser
+2022-07-20 17:21:58,393| base_page |test_password_form[input-confirm] | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 17:22:05,320| registration_user_page |test_password_form[input-confirm] | INFO | Find  #input-confirm by using css selector
+2022-07-20 17:22:05,347| conftest |test_password_form[input-confirm] | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:22:10,193| conftest |test_btns_subscribe | INFO | Start driver remote with chrome browser
+2022-07-20 17:22:10,194| base_page |test_btns_subscribe | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 17:22:16,759| registration_user_page |test_btns_subscribe | INFO | Find element
+2022-07-20 17:22:16,822| conftest |test_btns_subscribe | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:22:22,341| conftest |test_privacy_policy_checkpoint | INFO | Start driver remote with chrome browser
+2022-07-20 17:22:22,342| base_page |test_privacy_policy_checkpoint | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 17:22:29,110| registration_user_page |test_privacy_policy_checkpoint | INFO | Find [type=checkbox] by using css selector
+2022-07-20 17:22:29,126| base_page |test_privacy_policy_checkpoint | INFO | Element ([type=checkbox]) is present on the page
+2022-07-20 17:22:29,138| conftest |test_privacy_policy_checkpoint | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:22:34,021| conftest |test_btn_continue | INFO | Start driver remote with chrome browser
+2022-07-20 17:22:34,022| base_page |test_btn_continue | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 17:22:40,969| registration_user_page |test_btn_continue | INFO | Find [type=submit] by using css selector
+2022-07-20 17:22:40,991| base_page |test_btn_continue | INFO | Element ([type=submit]) is present on the page
+2022-07-20 17:22:40,992| conftest |test_btn_continue | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:22:46,238| conftest |test_registration_new_user | INFO | Start driver remote with chrome browser
+2022-07-20 17:22:46,238| base_page |test_registration_new_user | INFO | Open URL: http://10.234.28.102:8081/
+2022-07-20 17:22:58,914| base_page |test_registration_new_user | INFO | Element (#top-links .dropdown) is present on the page
+2022-07-20 17:22:58,914| registration_user_page |test_registration_new_user | INFO | Click on dropdown for registration
+2022-07-20 17:22:58,959| base_page |test_registration_new_user | INFO | Element (.dropdown-menu.dropdown-menu-right a) is present on the page
+2022-07-20 17:22:58,959| registration_user_page |test_registration_new_user | INFO | Click on button for registration
+2022-07-20 17:23:01,197| base_page |test_registration_new_user | ERROR | Element (#input-firstname) is not found
+2022-07-20 17:23:01,288| conftest |test_registration_new_user | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:38:43,296| conftest |test_personal_details_form[input-firstname] | INFO | Start driver remote with chrome browser
+2022-07-20 17:38:43,338| base_page |test_personal_details_form[input-firstname] | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 17:38:50,500| registration_user_page |test_personal_details_form[input-firstname] | INFO | Find  #input-firstname by using css selector
+2022-07-20 17:38:50,533| conftest |test_personal_details_form[input-firstname] | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:38:56,081| conftest |test_personal_details_form[input-lastname] | INFO | Start driver remote with chrome browser
+2022-07-20 17:38:56,082| base_page |test_personal_details_form[input-lastname] | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 17:39:02,860| registration_user_page |test_personal_details_form[input-lastname] | INFO | Find  #input-lastname by using css selector
+2022-07-20 17:39:02,899| conftest |test_personal_details_form[input-lastname] | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:39:08,097| conftest |test_personal_details_form[input-email] | INFO | Start driver remote with chrome browser
+2022-07-20 17:39:08,098| base_page |test_personal_details_form[input-email] | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 17:39:14,748| registration_user_page |test_personal_details_form[input-email] | INFO | Find  #input-email by using css selector
+2022-07-20 17:39:14,762| conftest |test_personal_details_form[input-email] | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:39:19,830| conftest |test_personal_details_form[input-telephone] | INFO | Start driver remote with chrome browser
+2022-07-20 17:39:19,831| base_page |test_personal_details_form[input-telephone] | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 17:39:26,865| registration_user_page |test_personal_details_form[input-telephone] | INFO | Find  #input-telephone by using css selector
+2022-07-20 17:39:26,899| conftest |test_personal_details_form[input-telephone] | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:39:32,213| conftest |test_password_form[input-password] | INFO | Start driver remote with chrome browser
+2022-07-20 17:39:32,214| base_page |test_password_form[input-password] | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 17:39:38,930| registration_user_page |test_password_form[input-password] | INFO | Find  #input-password by using css selector
+2022-07-20 17:39:38,943| conftest |test_password_form[input-password] | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:39:44,030| conftest |test_password_form[input-confirm] | INFO | Start driver remote with chrome browser
+2022-07-20 17:39:44,031| base_page |test_password_form[input-confirm] | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 17:39:50,398| registration_user_page |test_password_form[input-confirm] | INFO | Find  #input-confirm by using css selector
+2022-07-20 17:39:50,433| conftest |test_password_form[input-confirm] | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:39:56,177| conftest |test_btns_subscribe | INFO | Start driver remote with chrome browser
+2022-07-20 17:39:56,179| base_page |test_btns_subscribe | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 17:40:02,722| registration_user_page |test_btns_subscribe | INFO | Find element
+2022-07-20 17:40:02,748| conftest |test_btns_subscribe | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:40:07,395| conftest |test_privacy_policy_checkpoint | INFO | Start driver remote with chrome browser
+2022-07-20 17:40:07,396| base_page |test_privacy_policy_checkpoint | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 17:40:14,034| registration_user_page |test_privacy_policy_checkpoint | INFO | Find [type=checkbox] by using css selector
+2022-07-20 17:40:14,047| base_page |test_privacy_policy_checkpoint | INFO | Element ([type=checkbox]) is present on the page
+2022-07-20 17:40:14,048| conftest |test_privacy_policy_checkpoint | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:40:19,226| conftest |test_btn_continue | INFO | Start driver remote with chrome browser
+2022-07-20 17:40:19,227| base_page |test_btn_continue | INFO | Open URL: http://10.234.28.102:8081//index.php?route=account/register
+2022-07-20 17:40:26,034| registration_user_page |test_btn_continue | INFO | Find [type=submit] by using css selector
+2022-07-20 17:40:26,046| base_page |test_btn_continue | INFO | Element ([type=submit]) is present on the page
+2022-07-20 17:40:26,047| conftest |test_btn_continue | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:40:31,299| conftest |test_registration_new_user | INFO | Start driver remote with chrome browser
+2022-07-20 17:40:31,300| base_page |test_registration_new_user | INFO | Open URL: http://10.234.28.102:8081/
+2022-07-20 17:40:45,569| base_page |test_registration_new_user | INFO | Element (#top-links .dropdown) is present on the page
+2022-07-20 17:40:45,569| registration_user_page |test_registration_new_user | INFO | Click on dropdown for registration
+2022-07-20 17:40:45,612| base_page |test_registration_new_user | INFO | Element (.dropdown-menu.dropdown-menu-right a) is present on the page
+2022-07-20 17:40:45,612| registration_user_page |test_registration_new_user | INFO | Click on button for registration
+2022-07-20 17:40:47,800| base_page |test_registration_new_user | ERROR | Element (#input-firstname) is not found
+2022-07-20 17:40:47,871| conftest |test_registration_new_user | INFO | Stop driver remote 
+==============================================================================================================

@@ -1,0 +1,116 @@
+2022-06-21 22:47:23,073| conftest |test_macbook_air_poster_is_visibility | INFO | Start driver chrome
+2022-06-21 22:47:23,137| base_page |test_macbook_air_poster_is_visibility | INFO | Open URL: http://localhost/
+2022-06-21 22:47:30,322| conftest |test_macbook_air_poster_is_visibility | INFO | Stop driver chrome 
+==============================================================================================================
+2022-06-21 22:47:44,238| conftest |test_iphone_poster_is_visibility | INFO | Start driver chrome
+2022-06-21 22:47:44,240| base_page |test_iphone_poster_is_visibility | INFO | Open URL: http://localhost/
+2022-06-21 22:47:45,516| conftest |test_iphone_poster_is_visibility | INFO | Stop driver chrome 
+==============================================================================================================
+2022-07-20 15:17:57,936| conftest |test_found_opencart_signature | INFO | Start driver remote with chrome browser
+2022-07-20 15:17:58,002| base_page |test_found_opencart_signature | INFO | Open URL: http://10.234.28.102:8081/
+2022-07-20 15:18:10,552| main_page |test_found_opencart_signature | INFO | Find element footer .container p a by using css selector
+2022-07-20 15:18:10,564| base_page |test_found_opencart_signature | INFO | Element (footer .container p a) is present on the page
+2022-07-20 15:18:10,610| conftest |test_found_opencart_signature | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 15:18:15,641| conftest |test_search_line | INFO | Start driver remote with chrome browser
+2022-07-20 15:18:15,642| base_page |test_search_line | INFO | Open URL: http://10.234.28.102:8081/
+2022-07-20 15:18:30,092| main_page |test_search_line | INFO | Find element search by using id
+2022-07-20 15:18:30,114| base_page |test_search_line | INFO | Element (search) is present on the page
+2022-07-20 15:18:30,116| conftest |test_search_line | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 15:18:35,082| conftest |test_bucket | INFO | Start driver remote with chrome browser
+2022-07-20 15:18:35,083| base_page |test_bucket | INFO | Open URL: http://10.234.28.102:8081/
+2022-07-20 15:18:48,028| main_page |test_bucket | INFO | Find element cart by using id
+2022-07-20 15:18:48,042| base_page |test_bucket | INFO | Element (cart) is present on the page
+2022-07-20 15:18:48,044| conftest |test_bucket | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 15:18:53,153| conftest |test_swiper_wrapper_products | INFO | Start driver remote with chrome browser
+2022-07-20 15:18:53,153| base_page |test_swiper_wrapper_products | INFO | Open URL: http://10.234.28.102:8081/
+2022-07-20 15:19:05,701| main_page |test_swiper_wrapper_products | INFO | Find element #slideshow0 .swiper-wrapper by using css selector
+2022-07-20 15:19:05,718| base_page |test_swiper_wrapper_products | INFO | Element (#slideshow0 .swiper-wrapper) is present on the page
+2022-07-20 15:19:05,720| conftest |test_swiper_wrapper_products | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 15:19:10,560| conftest |test_macbook_air_poster_is_visibility | INFO | Start driver remote with chrome browser
+2022-07-20 15:19:10,562| base_page |test_macbook_air_poster_is_visibility | INFO | Open URL: http://10.234.28.102:8081/
+2022-07-20 15:19:22,896| main_page |test_macbook_air_poster_is_visibility | INFO | Wait for .swiper-slide-active [alt="MacBookAir"] to appear
+2022-07-20 15:19:26,111| main_page |test_macbook_air_poster_is_visibility | ERROR | MackBookAir poster is not visible
+2022-07-20 15:19:26,516| conftest |test_macbook_air_poster_is_visibility | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 15:19:31,710| conftest |test_iphone_poster_is_visibility | INFO | Start driver remote with chrome browser
+2022-07-20 15:19:31,711| base_page |test_iphone_poster_is_visibility | INFO | Open URL: http://10.234.28.102:8081/
+2022-07-20 15:19:44,382| main_page |test_iphone_poster_is_visibility | INFO | Wait for .swiper-slide-active [alt="iPhone 6"] to appear
+2022-07-20 15:19:47,807| main_page |test_iphone_poster_is_visibility | ERROR | Iphone6 poster is not visible
+2022-07-20 15:19:47,837| conftest |test_iphone_poster_is_visibility | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:18:09,979| conftest |test_found_opencart_signature | INFO | Start driver remote with chrome browser
+2022-07-20 17:18:10,064| base_page |test_found_opencart_signature | INFO | Open URL: http://10.234.28.102:8081/
+2022-07-20 17:18:23,932| main_page |test_found_opencart_signature | INFO | Find element footer .container p a by using css selector
+2022-07-20 17:18:23,968| base_page |test_found_opencart_signature | INFO | Element (footer .container p a) is present on the page
+2022-07-20 17:18:24,016| conftest |test_found_opencart_signature | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:18:30,699| conftest |test_search_line | INFO | Start driver remote with chrome browser
+2022-07-20 17:18:30,700| base_page |test_search_line | INFO | Open URL: http://10.234.28.102:8081/
+2022-07-20 17:18:45,239| main_page |test_search_line | INFO | Find element search by using id
+2022-07-20 17:18:45,251| base_page |test_search_line | INFO | Element (search) is present on the page
+2022-07-20 17:18:45,252| conftest |test_search_line | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:18:53,748| conftest |test_bucket | INFO | Start driver remote with chrome browser
+2022-07-20 17:18:53,749| base_page |test_bucket | INFO | Open URL: http://10.234.28.102:8081/
+2022-07-20 17:19:08,466| main_page |test_bucket | INFO | Find element cart by using id
+2022-07-20 17:19:08,482| base_page |test_bucket | INFO | Element (cart) is present on the page
+2022-07-20 17:19:08,483| conftest |test_bucket | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:19:15,365| conftest |test_swiper_wrapper_products | INFO | Start driver remote with chrome browser
+2022-07-20 17:19:15,366| base_page |test_swiper_wrapper_products | INFO | Open URL: http://10.234.28.102:8081/
+2022-07-20 17:19:31,226| main_page |test_swiper_wrapper_products | INFO | Find element #slideshow0 .swiper-wrapper by using css selector
+2022-07-20 17:19:31,247| base_page |test_swiper_wrapper_products | INFO | Element (#slideshow0 .swiper-wrapper) is present on the page
+2022-07-20 17:19:31,248| conftest |test_swiper_wrapper_products | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:19:37,110| conftest |test_macbook_air_poster_is_visibility | INFO | Start driver remote with chrome browser
+2022-07-20 17:19:37,111| base_page |test_macbook_air_poster_is_visibility | INFO | Open URL: http://10.234.28.102:8081/
+2022-07-20 17:19:49,705| main_page |test_macbook_air_poster_is_visibility | INFO | Wait for .swiper-slide-active [alt="MacBookAir"] to appear
+2022-07-20 17:19:52,927| main_page |test_macbook_air_poster_is_visibility | ERROR | MackBookAir poster is not visible
+2022-07-20 17:19:53,311| conftest |test_macbook_air_poster_is_visibility | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:19:59,093| conftest |test_iphone_poster_is_visibility | INFO | Start driver remote with chrome browser
+2022-07-20 17:19:59,093| base_page |test_iphone_poster_is_visibility | INFO | Open URL: http://10.234.28.102:8081/
+2022-07-20 17:20:12,942| main_page |test_iphone_poster_is_visibility | INFO | Wait for .swiper-slide-active [alt="iPhone 6"] to appear
+2022-07-20 17:20:16,246| main_page |test_iphone_poster_is_visibility | ERROR | Iphone6 poster is not visible
+2022-07-20 17:20:16,292| conftest |test_iphone_poster_is_visibility | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:36:17,081| conftest |test_found_opencart_signature | INFO | Start driver remote with chrome browser
+2022-07-20 17:36:17,131| base_page |test_found_opencart_signature | INFO | Open URL: http://10.234.28.102:8081/
+2022-07-20 17:36:29,491| main_page |test_found_opencart_signature | INFO | Find element footer .container p a by using css selector
+2022-07-20 17:36:29,508| base_page |test_found_opencart_signature | INFO | Element (footer .container p a) is present on the page
+2022-07-20 17:36:29,535| conftest |test_found_opencart_signature | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:36:35,518| conftest |test_search_line | INFO | Start driver remote with chrome browser
+2022-07-20 17:36:35,519| base_page |test_search_line | INFO | Open URL: http://10.234.28.102:8081/
+2022-07-20 17:36:48,176| main_page |test_search_line | INFO | Find element search by using id
+2022-07-20 17:36:48,193| base_page |test_search_line | INFO | Element (search) is present on the page
+2022-07-20 17:36:48,195| conftest |test_search_line | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:36:53,302| conftest |test_bucket | INFO | Start driver remote with chrome browser
+2022-07-20 17:36:53,303| base_page |test_bucket | INFO | Open URL: http://10.234.28.102:8081/
+2022-07-20 17:37:06,106| main_page |test_bucket | INFO | Find element cart by using id
+2022-07-20 17:37:06,124| base_page |test_bucket | INFO | Element (cart) is present on the page
+2022-07-20 17:37:06,125| conftest |test_bucket | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:37:10,955| conftest |test_swiper_wrapper_products | INFO | Start driver remote with chrome browser
+2022-07-20 17:37:10,956| base_page |test_swiper_wrapper_products | INFO | Open URL: http://10.234.28.102:8081/
+2022-07-20 17:37:23,339| main_page |test_swiper_wrapper_products | INFO | Find element #slideshow0 .swiper-wrapper by using css selector
+2022-07-20 17:37:23,351| base_page |test_swiper_wrapper_products | INFO | Element (#slideshow0 .swiper-wrapper) is present on the page
+2022-07-20 17:37:23,353| conftest |test_swiper_wrapper_products | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:37:28,666| conftest |test_macbook_air_poster_is_visibility | INFO | Start driver remote with chrome browser
+2022-07-20 17:37:28,666| base_page |test_macbook_air_poster_is_visibility | INFO | Open URL: http://10.234.28.102:8081/
+2022-07-20 17:37:41,162| main_page |test_macbook_air_poster_is_visibility | INFO | Wait for .swiper-slide-active [alt="MacBookAir"] to appear
+2022-07-20 17:37:44,385| main_page |test_macbook_air_poster_is_visibility | ERROR | MackBookAir poster is not visible
+2022-07-20 17:37:44,489| conftest |test_macbook_air_poster_is_visibility | INFO | Stop driver remote 
+==============================================================================================================
+2022-07-20 17:37:52,093| conftest |test_iphone_poster_is_visibility | INFO | Start driver remote with chrome browser
+2022-07-20 17:37:52,094| base_page |test_iphone_poster_is_visibility | INFO | Open URL: http://10.234.28.102:8081/
+2022-07-20 17:38:05,175| main_page |test_iphone_poster_is_visibility | INFO | Wait for .swiper-slide-active [alt="iPhone 6"] to appear
+2022-07-20 17:38:08,585| main_page |test_iphone_poster_is_visibility | ERROR | Iphone6 poster is not visible
+2022-07-20 17:38:08,594| conftest |test_iphone_poster_is_visibility | INFO | Stop driver remote 
+==============================================================================================================
